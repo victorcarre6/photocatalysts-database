@@ -1,0 +1,2 @@
+(PhotochemCAD)[https://photochemcad.com/] : a large library of photochemical datas for over 300 molecules.
+(N. A. Romero, D. A. Nicewicz, Chem. Rev. 2016, 116, 17, 10075–10166)[https://pubs.acs.org/doi/abs/10.1021/acs.chemrev.6b00057] : the « grail » for many photochemists, offering a vast amount of photochemical data for various photocatalysts.
