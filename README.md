@@ -32,7 +32,7 @@ Ongoing:
 
 Planned:
 - **Data Visualization** – Develop data visualization tools to highlight trends and insights, such as structural relationships and physicochemical property distributions.
-- **Prediction Models** – Develop machine learning models for predicting compound behaviors, properties, and applications based on historical data. Starting point of Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor).
+- **Prediction Models** – Develop machine learning models for predicting compound behaviors, properties, and applications based on historical data. Starting point of [Photocompounds Properties Predictor](https://github.com/victorcarre6/photocompounds-properties-predictor).
 
 ---
 
