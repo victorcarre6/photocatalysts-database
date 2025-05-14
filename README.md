@@ -1,6 +1,6 @@
 # Photocompounds Database
 
-An open-source database for photochemical compounds, giving various physicochemical properties about photocatalysts, dyes, and commun organic compounds.
+An open-source database for photochemical compounds, giving various physicochemical properties about photocatalysts, dyes, natural products, and commun organic compounds.
 
 This project aims to support researchers, chemists, and companies working in various fields such as photochemistry, materials science, and pharmaceutical development by providing a structured, data-rich resource for compound discovery, characterization, and analysis.
 
