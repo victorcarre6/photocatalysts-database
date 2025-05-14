@@ -60,7 +60,7 @@ To run the code locally, you'll need the following packages (see requirements.tx
 
 ### Installation
 
-    Clone the repository:
+Clone the repository:
 
 	```
 	git clone https://github.com/votre-utilisateur/photocompounds-database.git
@@ -77,29 +77,28 @@ Install dependencies using pip:
 
 ### Usage
 
-    Load the dataset into a Python script or Jupyter notebook:
+Load the dataset into a Python script or Jupyter notebook:
 
     import pandas as pd
     data = pd.read_csv("data/sample_data.csv")
 
-    Start exploring the data and using the cheminformatics tools available in the src folder.
-
-    Run scripts for data collection, cleaning, and visualization from the src folder.
+Start exploring the data and using the cheminformatics tools available in the src folder.
+Run scripts for data collection, cleaning, and visualization from the src folder.
 
 ### Running Jupyter Notebooks
 
-   	Install Jupyter if not already installed:
+Install Jupyter if not already installed:
 
 	```
 	pip install jupyter
 	```
 
-	Run Jupyter notebook:
+Run Jupyter notebook:
 	```
    	jupyter notebook
 	```
 
-    Open the relevant notebook and start experimenting with data and tools.
+Open the relevant notebook and start experimenting with data and tools ! 😄
 
 ---
 
