@@ -1,0 +1,624 @@
+PhotochemCAD ID,Compound Category,Name,Synonym,CAS,Source,Absorption Wavelength,Absorption epsilon,Absorption coefficient,Quantum Yield,Solvent
+,,,,,,,,,,
+A01,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzene,,71-43-2,"Sigma-Aldrich, 270709",254.75,,,0.053,hexane
+A02,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Toluene,,108-88-3,"Sigma-Aldrich, 650579",261.75,,,0.17,cyclohexane
+A03,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,o-Xylene,,95-47-6,"TCI, X0012",263,,,0.17,hexane
+A04,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,m-Xylene,,108-38-3,"TCI, X0013",265,,,0.13,hexane
+A05,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,p-Xylene,,106-42-3,"Sigma-Aldrich, 296333",275,,,0.22,hexane
+A06,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Mesitylene,"1,3,5-Trimethylbenzene",108-67-8,"Sigma-Aldrich, M7200",265,,,0.088,hexane
+A07,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Durene,"1,2,4,5-Tetramethylbenzene",95-93-2,"Oakwood Chemical, 448616",278,,,0.3,hexane
+A08,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Pentamethylbenzene,,700-12-9,"Alfa Aesar, L04163",271,,,0.075,hexane
+A09,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Hexamethylbenzene,,87-85-4,"Oakwood Chemical, 099647",271,,,0.01,hexane
+A10,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenol,,108-95-2,"Sigma-Aldrich, P5566",270.75,,,0.075,hexane
+A11,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Anisole,Methoxybenzene,100-66-3,"Sigma-Aldrich, 296295",220,,,0.45,cyclohexane
+A12,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzonitrile,Phenyl cyanide,100-47-0,"Sigma-Aldrich, B8959",222,,,0.23,cyclohexane
+A13,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzaldehyde,Phenylmethanal,100-52-7,"Sigma-Aldrich, B1334",242,,,,cyclohexane
+A14,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzoic acid,,65-85-0,"Fischer, A65-500",227,,,,methanol
+A15,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Acetophenone,Methyl phenyl ketone,98-86-2,"Sigma-Aldrich, A10701",241,,,,ethanol
+A16,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Aniline,,62-53-3,"Sigma-Aldrich, 242284",288,,,0.17,cyclohexane
+A17,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"N,N-Dimethyl-aniline",,121-69-7,"Oakwood Chemical, 098810",251,,,0.19,cyclohexane
+A18,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylhydrazine Hydrochloride,,59-88-1,"Sigma-Aldrich, 114715",279,,,,PBS
+A19,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Chlorobenzene,,108-90-7,"Sigma-Aldrich, 270644",265,,,0.0042,cyclohexane
+A20,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Iodobenzene,,591-50-4,"Sigma-Aldrich, I7632",228,,,,cyclohexane
+A21,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Nitrobenzene,,98-95-3,"Sigma-Aldrich, 252379",258,,,,ethanol
+A22,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Styrene,Phenylethylene; Vinylbenzene,100-42-5,"Sigma-Aldrich, 240869",248,,,0.22,cyclohexane
+A23,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylacetylene,Ethynylbenzene,536-74-3,"Sigma-Aldrich, 117706",236,,,0.11,benzene
+A24,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"1,4-Diethynylbenzene",,935-14-8,"GFS chemicals, 3385",274,,,0.19,chloroform
+A25,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylpropargyl aldehyde,Phenylpropiolaldehyde; 3-Phenyl-2-propynal,2579-22-8,"Sigma-Aldrich, P3,100-0",277,,,,ethanol
+A26,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylboronic acid,Benzeneboronic acid,98-80-6,"Acros, 130360100",227,,,0.26,cyclohexane
+A27,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Vanillin,4-Hydroxy-3-methoxybenzaldehyde,121-33-5,"Sigma-Aldrich, V110-4",222,,,,cyclohexane
+A28,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,3-Hydroxyacetophenone,m-Acetylphenol,121-71-1,"TCI, A0104",218,,,,ethanol
+A29,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Ethyl 4-(dimethylamino)benzoate,Parbenate,10287-53-3,,310.25,,,0.29,cyclohexane
+A30,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Gallacetophenone,"2',3',4'-Trihydroxyacetophenone",528-21-2,"TCI, T1198",291,,,,methanol
+A31,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Terephthalic acid,"Benzene-1,4-dicarboxylic acid; 1,4-dicarboxybenzene",100-21-0,"Sigma-Aldrich, 18,536-1",240,,,,ethanol
+A32,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,p-Phenylenediamine,"1,4-Benzenediamine; 1,4-Diaminobenzene; 1,4-Phenylenediamine",106-50-3,"Sigma-Aldrich, P6001",251,,,0.065,acetonitrile
+A33,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Tetraphenylmethane,,630-76-2,,263,,,0.24,cyclohexane
+A34,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,N-Phenylbenzylamine,N-Benzylaniline; N-Benzyl-N-phenylamine,103-32-2,"TCI, P0159",245,,,0.164,cyclohexane
+A35,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,trans-Chalcone,"Benzylideneacetophenone;  1,3-Diphenyl-2-propen-3-one",614-47-1,"Sigma-Aldrich, 136123",302,,,,cyclohexane
+A36,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzophenone,Diphenyl ketone,119-61-9,"Sigma-Aldrich, B9300",252,,,,ethanol
+A37,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"4,4'-Dihydroxybenzophenone",,611-99-4,"TCI, D0577",283,,,,chloroform
+A38,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Diethyl phthalate,,84-66-2,,225,,,,ethanol
+A39,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"1,2,4,5-Tetracyanobenzene",TCNB; Pyromellitic acid tetranitrile,712-74-3,"TCI, T0988",316,,,0.21,chloroform
+A40,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Hexafluorobenzene,,392-56-3,"Sigma-Aldrich, 30,285-6",230,,,0.035,ethanol
+A41,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Ferrocene,Bis(cyclopentadienyl)iron; Di(cyclopentadienyl)iron,102-54-5,,442,,,,cyclohexane
+A01,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzene,,71-43-2,"Sigma-Aldrich, 270709",254.75,,,0.053,hexane
+A02,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Toluene,,108-88-3,"Sigma-Aldrich, 650579",261.75,,,0.17,cyclohexane
+A03,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,o-Xylene,,95-47-6,"TCI, X0012",263,,,0.17,hexane
+A04,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,m-Xylene,,108-38-3,"TCI, X0013",265,,,0.13,hexane
+A05,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,p-Xylene,,106-42-3,"Sigma-Aldrich, 296333",275,,,0.22,hexane
+A06,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Mesitylene,"1,3,5-Trimethylbenzene",108-67-8,"Sigma-Aldrich, M7200",265,,,0.088,hexane
+A07,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Durene,"1,2,4,5-Tetramethylbenzene",95-93-2,"Oakwood Chemical, 448616",278,,,0.3,hexane
+A08,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Pentamethylbenzene,,700-12-9,"Alfa Aesar, L04163",271,,,0.075,hexane
+A09,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Hexamethylbenzene,,87-85-4,"Oakwood Chemical, 099647",271,,,0.01,hexane
+A10,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenol,,108-95-2,"Sigma-Aldrich, P5566",270.75,,,0.075,hexane
+A11,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Anisole,Methoxybenzene,100-66-3,"Sigma-Aldrich, 296295",220,,,0.45,cyclohexane
+A12,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzonitrile,Phenyl cyanide,100-47-0,"Sigma-Aldrich, B8959",222,,,0.23,cyclohexane
+A13,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzaldehyde,Phenylmethanal,100-52-7,"Sigma-Aldrich, B1334",242,,,,cyclohexane
+A14,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzoic acid,,65-85-0,"Fischer, A65-500",227,,,,methanol
+A15,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Acetophenone,Methyl phenyl ketone,98-86-2,"Sigma-Aldrich, A10701",241,,,,ethanol
+A16,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Aniline,,62-53-3,"Sigma-Aldrich, 242284",288,,,0.17,cyclohexane
+A17,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"N,N-Dimethyl-aniline",,121-69-7,"Oakwood Chemical, 098810",251,,,0.19,cyclohexane
+A18,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylhydrazine Hydrochloride,,59-88-1,"Sigma-Aldrich, 114715",279,,,,PBS
+A19,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Chlorobenzene,,108-90-7,"Sigma-Aldrich, 270644",265,,,0.0042,cyclohexane
+A20,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Iodobenzene,,591-50-4,"Sigma-Aldrich, I7632",228,,,,cyclohexane
+A21,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Nitrobenzene,,98-95-3,"Sigma-Aldrich, 252379",258,,,,ethanol
+A22,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Styrene,Phenylethylene; Vinylbenzene,100-42-5,"Sigma-Aldrich, 240869",248,,,0.22,cyclohexane
+A23,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylacetylene,Ethynylbenzene,536-74-3,"Sigma-Aldrich, 117706",236,,,0.11,benzene
+A24,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"1,4-Diethynylbenzene",,935-14-8,"GFS chemicals, 3385",274,,,0.19,chloroform
+A25,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylpropargyl aldehyde,Phenylpropiolaldehyde; 3-Phenyl-2-propynal,2579-22-8,"Sigma-Aldrich, P3,100-0",277,,,,ethanol
+A26,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Phenylboronic acid,Benzeneboronic acid,98-80-6,"Acros, 130360100",227,,,0.26,cyclohexane
+A27,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Vanillin,4-Hydroxy-3-methoxybenzaldehyde,121-33-5,"Sigma-Aldrich, V110-4",222,,,,cyclohexane
+A28,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,3-Hydroxyacetophenone,m-Acetylphenol,121-71-1,"TCI, A0104",218,,,,ethanol
+A29,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Ethyl 4-(dimethylamino)benzoate,Parbenate,10287-53-3,,310.25,,,0.29,cyclohexane
+A30,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Gallacetophenone,"2',3',4'-Trihydroxyacetophenone",528-21-2,"TCI, T1198",291,,,,methanol
+A31,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Terephthalic acid,"Benzene-1,4-dicarboxylic acid; 1,4-dicarboxybenzene",100-21-0,"Sigma-Aldrich, 18,536-1",240,,,,ethanol
+A32,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,p-Phenylenediamine,"1,4-Benzenediamine; 1,4-Diaminobenzene; 1,4-Phenylenediamine",106-50-3,"Sigma-Aldrich, P6001",251,,,0.065,acetonitrile
+A33,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Tetraphenylmethane,,630-76-2,,263,,,0.24,cyclohexane
+A34,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,N-Phenylbenzylamine,N-Benzylaniline; N-Benzyl-N-phenylamine,103-32-2,"TCI, P0159",245,,,0.164,cyclohexane
+A35,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,trans-Chalcone,"Benzylideneacetophenone;  1,3-Diphenyl-2-propen-3-one",614-47-1,"Sigma-Aldrich, 136123",302,,,,cyclohexane
+A36,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Benzophenone,Diphenyl ketone,119-61-9,"Sigma-Aldrich, B9300",252,,,,ethanol
+A37,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"4,4'-Dihydroxybenzophenone",,611-99-4,"TCI, D0577",283,,,,chloroform
+A38,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Diethyl phthalate,,84-66-2,,225,,,,ethanol
+A39,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,"1,2,4,5-Tetracyanobenzene",TCNB; Pyromellitic acid tetranitrile,712-74-3,"TCI, T0988",316,,,0.21,chloroform
+A40,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Hexafluorobenzene,,392-56-3,"Sigma-Aldrich, 30,285-6",230,,,0.035,ethanol
+A41,https://photochemcad.com/databases/common-compounds/aromatic-hydrocarbons,Ferrocene,Bis(cyclopentadienyl)iron; Di(cyclopentadienyl)iron,102-54-5,,442,,,,cyclohexane
+,,,,,,,,,,
+E01,https://photochemcad.com/databases/common-compounds/heterocycles,Pyridine,,110-86-1,,251,,,,acetonitrile
+E02,https://photochemcad.com/databases/common-compounds/heterocycles,Pyridine N-oxide,,694-59-7,"Sigma-Aldrich, 131652",276,,,,dichloromethane
+E03,https://photochemcad.com/databases/common-compounds/heterocycles,2-Acetylpyridine,,1122-62-9,"Sigma-Aldrich, A2,100-2",227,,,,cyclohexane
+E04,https://photochemcad.com/databases/common-compounds/heterocycles,4-Dimethylaminopyridine,DMAP,1122-58-3,,257,,,0.017,acetonitrile
+E05,https://photochemcad.com/databases/common-compounds/heterocycles,4-(4-Nitrobenzyl)pyridine,,1083-48-3,"TCI, N0183",265,,,,ethanol
+E06,https://photochemcad.com/databases/common-compounds/heterocycles,"1,3,5-Triazine",s-Triazine,290-87-9,"Alfa Aesar, L16911",270,,,,ethanol
+E07,https://photochemcad.com/databases/common-compounds/heterocycles,Phthalimide,,85-41-6,,215,,,,ethanol
+E08,https://photochemcad.com/databases/common-compounds/heterocycles,"2,2'-Bipyridine","2,2_-Bipyridyl; 2,2_-Dipyridine; 2,2_-Dipyridyl",366-18-7,,281,,,,acetonitrile
+E09,https://photochemcad.com/databases/common-compounds/heterocycles,"4,4'-Bipyridine","4,4_-Bipyridy; 4,4_-Dipyridine; 4,4_-Dipyridyl",553-26-4,"Alfa Aesar, A10187",238,,,,acetonitrile
+E10,https://photochemcad.com/databases/common-compounds/heterocycles,Quinoline,,91-22-5,"Sigma-Aldrich, 241571",204,,,0.01,ethanol
+E11,https://photochemcad.com/databases/common-compounds/heterocycles,8-Quinoline carboxylic acid,,86-59-9,"Sigma-Aldrich, 367796",219,,,0.02,ethanol
+E12,https://photochemcad.com/databases/common-compounds/heterocycles,3-Quinoline carboxaldehyde,,13669-42-6,"Sigma-Aldrich, 177121",245,,,,ethanol
+E13,https://photochemcad.com/databases/common-compounds/heterocycles,Benzothiazole,,95-16-9,"Sigma-Aldrich, 101338",217,,,,ethanol
+E14,https://photochemcad.com/databases/common-compounds/heterocycles,Benzotriazole,,95-14-7,"Sigma-Aldrich, B11400",253,,,,ethanol
+E15,https://photochemcad.com/databases/common-compounds/heterocycles,2-Methylbenzoxazole,,95-21-6,,231.75,,,,cyclohexane
+E16,https://photochemcad.com/databases/common-compounds/heterocycles,Pyrrole,,109-97-7,,206,,,,hexane
+E17,https://photochemcad.com/databases/common-compounds/heterocycles,Pyrrole-2-carboxaldehyde,2-Formylpyrrole,1003-29-8,"Oakwood Chemical, 043867",278,,,,hexane
+E18,https://photochemcad.com/databases/common-compounds/heterocycles,Thiazole Orange,,107091-89-4,"Sigma-Aldrich, 390062",502,,,,methanol
+E19,https://photochemcad.com/databases/common-compounds/heterocycles,Thioflavin T,,2390-54-7,"Sigma-Aldrich, T3516",413,,,0.0004,water
+E20,https://photochemcad.com/databases/common-compounds/heterocycles,"Tris(2,2'-bipyridyl)ruthenium(II)","Tris(2,2_-bipyridyl)dichlororuthenium(II)",65034-88-0,,286,,,,water
+E21,https://photochemcad.com/databases/common-compounds/heterocycles,4-Chloro-7-nitrobenzofurazan,NBD,10199-89-0,,336,,,,ethanol
+E22,https://photochemcad.com/databases/common-compounds/heterocycles,"7-Benzylamino-4-nitrobenz-2-oxa-1,3-diazole","4-Benzylamino-7-nitrobenzofurazan, Benzylamino-NBD",18378-20-6,"Sigma-Aldrich, B-1889",460.5,,,0.36,ethanol
+E23,https://photochemcad.com/databases/common-compounds/heterocycles,Carbostyril 124,7-Amino-4-methyl-2-hydroxyquinoline,19840-99-4,,219,,,0.97,water (pH 5 to 9 )
+E24,https://photochemcad.com/databases/common-compounds/heterocycles,Quinoline Yellow,Acid Yellow 3,8004-92-0,"TCI, Q0023",413,,,,PBS
+E25,https://photochemcad.com/databases/common-compounds/heterocycles,"2,3,5-Triphenyltetrazolium Chloride",Tetrazolium Red,298-96-4,"TCI, T0520",247,,,,PBS
+E26,https://photochemcad.com/databases/common-compounds/heterocycles,Quinine sulfate,,207671-44-1,,349,,,0.546,H2SO4 aq (1 N)
+E01,https://photochemcad.com/databases/common-compounds/heterocycles,Pyridine,,110-86-1,,251,,,,acetonitrile
+E02,https://photochemcad.com/databases/common-compounds/heterocycles,Pyridine N-oxide,,694-59-7,"Sigma-Aldrich, 131652",276,,,,dichloromethane
+E03,https://photochemcad.com/databases/common-compounds/heterocycles,2-Acetylpyridine,,1122-62-9,"Sigma-Aldrich, A2,100-2",227,,,,cyclohexane
+E04,https://photochemcad.com/databases/common-compounds/heterocycles,4-Dimethylaminopyridine,DMAP,1122-58-3,,257,,,0.017,acetonitrile
+E05,https://photochemcad.com/databases/common-compounds/heterocycles,4-(4-Nitrobenzyl)pyridine,,1083-48-3,"TCI, N0183",265,,,,ethanol
+E06,https://photochemcad.com/databases/common-compounds/heterocycles,"1,3,5-Triazine",s-Triazine,290-87-9,"Alfa Aesar, L16911",270,,,,ethanol
+E07,https://photochemcad.com/databases/common-compounds/heterocycles,Phthalimide,,85-41-6,,215,,,,ethanol
+E08,https://photochemcad.com/databases/common-compounds/heterocycles,"2,2'-Bipyridine","2,2_-Bipyridyl; 2,2_-Dipyridine; 2,2_-Dipyridyl",366-18-7,,281,,,,acetonitrile
+E09,https://photochemcad.com/databases/common-compounds/heterocycles,"4,4'-Bipyridine","4,4_-Bipyridy; 4,4_-Dipyridine; 4,4_-Dipyridyl",553-26-4,"Alfa Aesar, A10187",238,,,,acetonitrile
+E10,https://photochemcad.com/databases/common-compounds/heterocycles,Quinoline,,91-22-5,"Sigma-Aldrich, 241571",204,,,0.01,ethanol
+E11,https://photochemcad.com/databases/common-compounds/heterocycles,8-Quinoline carboxylic acid,,86-59-9,"Sigma-Aldrich, 367796",219,,,0.02,ethanol
+E12,https://photochemcad.com/databases/common-compounds/heterocycles,3-Quinoline carboxaldehyde,,13669-42-6,"Sigma-Aldrich, 177121",245,,,,ethanol
+E13,https://photochemcad.com/databases/common-compounds/heterocycles,Benzothiazole,,95-16-9,"Sigma-Aldrich, 101338",217,,,,ethanol
+E14,https://photochemcad.com/databases/common-compounds/heterocycles,Benzotriazole,,95-14-7,"Sigma-Aldrich, B11400",253,,,,ethanol
+E15,https://photochemcad.com/databases/common-compounds/heterocycles,2-Methylbenzoxazole,,95-21-6,,231.75,,,,cyclohexane
+E16,https://photochemcad.com/databases/common-compounds/heterocycles,Pyrrole,,109-97-7,,206,,,,hexane
+E17,https://photochemcad.com/databases/common-compounds/heterocycles,Pyrrole-2-carboxaldehyde,2-Formylpyrrole,1003-29-8,"Oakwood Chemical, 043867",278,,,,hexane
+E18,https://photochemcad.com/databases/common-compounds/heterocycles,Thiazole Orange,,107091-89-4,"Sigma-Aldrich, 390062",502,,,,methanol
+E19,https://photochemcad.com/databases/common-compounds/heterocycles,Thioflavin T,,2390-54-7,"Sigma-Aldrich, T3516",413,,,0.0004,water
+E20,https://photochemcad.com/databases/common-compounds/heterocycles,"Tris(2,2'-bipyridyl)ruthenium(II)","Tris(2,2_-bipyridyl)dichlororuthenium(II)",65034-88-0,,286,,,,water
+E21,https://photochemcad.com/databases/common-compounds/heterocycles,4-Chloro-7-nitrobenzofurazan,NBD,10199-89-0,,336,,,,ethanol
+E22,https://photochemcad.com/databases/common-compounds/heterocycles,"7-Benzylamino-4-nitrobenz-2-oxa-1,3-diazole","4-Benzylamino-7-nitrobenzofurazan, Benzylamino-NBD",18378-20-6,"Sigma-Aldrich, B-1889",460.5,,,0.36,ethanol
+E23,https://photochemcad.com/databases/common-compounds/heterocycles,Carbostyril 124,7-Amino-4-methyl-2-hydroxyquinoline,19840-99-4,,219,,,0.97,water (pH 5 to 9 )
+E24,https://photochemcad.com/databases/common-compounds/heterocycles,Quinoline Yellow,Acid Yellow 3,8004-92-0,"TCI, Q0023",413,,,,PBS
+E25,https://photochemcad.com/databases/common-compounds/heterocycles,"2,3,5-Triphenyltetrazolium Chloride",Tetrazolium Red,298-96-4,"TCI, T0520",247,,,,PBS
+E26,https://photochemcad.com/databases/common-compounds/heterocycles,Quinine sulfate,,207671-44-1,,349,,,0.546,H2SO4 aq (1 N)
+,,,,,,,,,,
+F01,https://photochemcad.com/databases/common-compounds/biomolecules,L-Alanine,,56-41-7,"Sigma-Aldrich, A26802",262,,,,methanol
+F02,https://photochemcad.com/databases/common-compounds/biomolecules,L-Phenylalanine,,63-91-2,"Sigma-Aldrich, P2126",257.5,,,0.022,water
+F03,https://photochemcad.com/databases/common-compounds/biomolecules,L-Tyrosine,,60-18-4,"Sigma-Aldrich, T3754",274.25,,,0.13,"phosphate buffer (pH 7, 0.1 M)"
+F04,https://photochemcad.com/databases/common-compounds/biomolecules,L-Histidine,,71-00-1,"Sigma-Aldrich, H8000",211,,,,water
+F05,https://photochemcad.com/databases/common-compounds/biomolecules,L-Tryptophan,,73-22-3,,278,,,0.12,"phosphate buffer (pH 7, 0.1 M)"
+F06,https://photochemcad.com/databases/common-compounds/biomolecules,Adenine,,73-24-5,"Sigma-Aldrich, 104965",261,,,,water (pH 7)
+F07,https://photochemcad.com/databases/common-compounds/biomolecules,Guanine,,73-40-5,"Sigma-Aldrich, G11950",243,,,,water
+F08,https://photochemcad.com/databases/common-compounds/biomolecules,Cytosine,,71-30-7,,266.75,,,,water
+F09,https://photochemcad.com/databases/common-compounds/biomolecules,Thymine,,65-71-4,"Sigma-Aldrich, 131997",263.75,,,,water
+F10,https://photochemcad.com/databases/common-compounds/biomolecules,Uracil,,66-22-8,"Sigma-Aldrich, 130788",258.25,,,,water
+F11,https://photochemcad.com/databases/common-compounds/biomolecules,2-Amino-4-methylpyrimidine,,108-52-1,"Sigma-Aldrich, A65700",228,,,,ethanol
+F12,https://photochemcad.com/databases/common-compounds/biomolecules,"2,4-dihydroxy-6-methylpyrimidine",6-Methyluracil,626-48-2,"Sigma-Aldrich, D115207",259,,,,ethanol
+F13,https://photochemcad.com/databases/common-compounds/biomolecules,D-(-)-Salicin,,138-52-3,,212,,,,ethanol
+F14,https://photochemcad.com/databases/common-compounds/biomolecules,Riboflavin,Vitamin B2,83-88-5,,263,,,0.3,ethanol
+F15,https://photochemcad.com/databases/common-compounds/biomolecules,L-Ascorbic acid,Vitamin C,50-81-7,"Sigma-Aldrich, 255564",265,,,,PBS
+F16,https://photochemcad.com/databases/common-compounds/biomolecules,DL-alpha-Tocopherol,Vitamin E,10191-41-0,"Sigma-Aldrich, 258024",206,,,0.14,ethanol
+F17,https://photochemcad.com/databases/common-compounds/biomolecules,Vitamin K1,"2-Methyl-3-phytyl-1,4-naphthoquinone, Phylloquinone",84-80-0,"Sigma-Aldrich, V3501",248,,,,ethanol
+F18,https://photochemcad.com/databases/common-compounds/biomolecules,Folic acid,Vitamin B9,59-30-3,"Oakwood Chemical, 099511",281,,,0.005,water
+F01,https://photochemcad.com/databases/common-compounds/biomolecules,L-Alanine,,56-41-7,"Sigma-Aldrich, A26802",262,,,,methanol
+F02,https://photochemcad.com/databases/common-compounds/biomolecules,L-Phenylalanine,,63-91-2,"Sigma-Aldrich, P2126",257.5,,,0.022,water
+F03,https://photochemcad.com/databases/common-compounds/biomolecules,L-Tyrosine,,60-18-4,"Sigma-Aldrich, T3754",274.25,,,0.13,"phosphate buffer (pH 7, 0.1 M)"
+F04,https://photochemcad.com/databases/common-compounds/biomolecules,L-Histidine,,71-00-1,"Sigma-Aldrich, H8000",211,,,,water
+F05,https://photochemcad.com/databases/common-compounds/biomolecules,L-Tryptophan,,73-22-3,,278,,,0.12,"phosphate buffer (pH 7, 0.1 M)"
+F06,https://photochemcad.com/databases/common-compounds/biomolecules,Adenine,,73-24-5,"Sigma-Aldrich, 104965",261,,,,water (pH 7)
+F07,https://photochemcad.com/databases/common-compounds/biomolecules,Guanine,,73-40-5,"Sigma-Aldrich, G11950",243,,,,water
+F08,https://photochemcad.com/databases/common-compounds/biomolecules,Cytosine,,71-30-7,,266.75,,,,water
+F09,https://photochemcad.com/databases/common-compounds/biomolecules,Thymine,,65-71-4,"Sigma-Aldrich, 131997",263.75,,,,water
+F10,https://photochemcad.com/databases/common-compounds/biomolecules,Uracil,,66-22-8,"Sigma-Aldrich, 130788",258.25,,,,water
+F11,https://photochemcad.com/databases/common-compounds/biomolecules,2-Amino-4-methylpyrimidine,,108-52-1,"Sigma-Aldrich, A65700",228,,,,ethanol
+F12,https://photochemcad.com/databases/common-compounds/biomolecules,"2,4-dihydroxy-6-methylpyrimidine",6-Methyluracil,626-48-2,"Sigma-Aldrich, D115207",259,,,,ethanol
+F13,https://photochemcad.com/databases/common-compounds/biomolecules,D-(-)-Salicin,,138-52-3,,212,,,,ethanol
+F14,https://photochemcad.com/databases/common-compounds/biomolecules,Riboflavin,Vitamin B2,83-88-5,,263,,,0.3,ethanol
+F15,https://photochemcad.com/databases/common-compounds/biomolecules,L-Ascorbic acid,Vitamin C,50-81-7,"Sigma-Aldrich, 255564",265,,,,PBS
+F16,https://photochemcad.com/databases/common-compounds/biomolecules,DL-alpha-Tocopherol,Vitamin E,10191-41-0,"Sigma-Aldrich, 258024",206,,,0.14,ethanol
+F17,https://photochemcad.com/databases/common-compounds/biomolecules,Vitamin K1,"2-Methyl-3-phytyl-1,4-naphthoquinone, Phylloquinone",84-80-0,"Sigma-Aldrich, V3501",248,,,,ethanol
+F18,https://photochemcad.com/databases/common-compounds/biomolecules,Folic acid,Vitamin B9,59-30-3,"Oakwood Chemical, 099511",281,,,0.005,water
+,,,,,,,,,,
+G01,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Benzoquinone",,106-51-4,"Sigma-Aldrich, B10358",239.75,,,,acetonitrile
+G02,https://photochemcad.com/databases/common-compounds/quinones,Hydroquinone,"1,4-Benzenediol, 1,4-Dihydroxybenzene",123-31-9,"Sigma-Aldrich, 240125",225,,,0.16,acetonitrile
+G03,https://photochemcad.com/databases/common-compounds/quinones,"2,3,5,6-Tetrachloro-1,4-benzoquinone",p-Chloranil,118-75-2,"Sigma-Aldrich, 232017",288,,,,acetonitrile
+G04,https://photochemcad.com/databases/common-compounds/quinones,Tetrachlorohydroquinone,"2,3,5,6-Tetrachloro-1,4-benzendiol",87-87-6,"Sigma-Aldrich, T2153",211,,,,acetonitrile
+G05,https://photochemcad.com/databases/common-compounds/quinones,"2,3,5,6-Tetramethyl-1,4-benzoquinone",Duroquinone,527-17-3,"Sigma-Aldrich, D223204",270,,,,acetonitrile
+G06,https://photochemcad.com/databases/common-compounds/quinones,"2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",DDQ,84-58-2,"Oakwood Chemical, 127800",287,,,,chloroform
+G07,https://photochemcad.com/databases/common-compounds/quinones,"3,4,5,6-Tetrachloro-1,2-benzoquinone",o-Chloranil,2435-53-2,"Sigma-Aldrich, T6601",458,,,,chloroform
+G08,https://photochemcad.com/databases/common-compounds/quinones,"2,5-Diphenyl-1,4-benzoquinone",,844-51-9,"Alfa Aesar, A15369",243,,,,acetonitrile
+G09,https://photochemcad.com/databases/common-compounds/quinones,"2,5-Di-tert-butyl-1,4-benzoquinone",,2460-77-7,"Sigma-Aldrich, 419648",258,,,,acetonitrile
+G10,https://photochemcad.com/databases/common-compounds/quinones,Tetracyanoethylene,TCNE,670-54-2,"Alfa Aesar, A13945",267,,,,chloroform
+G11,https://photochemcad.com/databases/common-compounds/quinones,"7,7,8,8-Tetracyanoquinodimethane",TCNQ,1518-16-7,"TCI, T0078",401,,,,chloroform
+G12,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Naphthoquinone",alpha-Naphthoquinone,130-15-4,"TCI, N0040",246,,,,ethanol
+G13,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Naphthoquinone-2-sulfonic acid, Potassium salt",,34169-62-5,"Sigma-Aldrich, S970999",255,,,,water
+G14,https://photochemcad.com/databases/common-compounds/quinones,"2,3-Dichloro-1,4-naphthoquinone",Dichlone,117-80-6,"Oakwood Chemical, 223440",280,,,,ethanol
+G15,https://photochemcad.com/databases/common-compounds/quinones,"2-Methyl-1,4-naphthoquinone","Menadione, Vitamin K3",58-27-5,"Sigma-Aldrich, M5625",251,,,,ethanol
+G16,https://photochemcad.com/databases/common-compounds/quinones,"9,10-Phenanthrenequinone",,84-11-7,"Sigma-Aldrich, 156507",268,,,,chloroform
+G17,https://photochemcad.com/databases/common-compounds/quinones,"1,2-Naphthoquinone",beta-Naphthoquinone,524-42-5,"Sigma-Aldrich, 346616",249,,,,methanol
+G18,https://photochemcad.com/databases/common-compounds/quinones,"1,2-Naphthoquinone-4-sulfonic acid, sodium salt",,521-24-4,"Sigma-Aldrich, 226017",250,,,,methanol
+G19,https://photochemcad.com/databases/common-compounds/quinones,"9,10-Anthraquinone",,84-65-1,"Sigma-Aldrich, A90004",251.25,,,,ethanol
+G20,https://photochemcad.com/databases/common-compounds/quinones,Alizarin,"1,2-Dihydroxyanthraquinone, Mordant Red 11",72-48-0,"TCI, D0242",248,,,,ethanol
+G21,https://photochemcad.com/databases/common-compounds/quinones,Alizarin Red S,,130-22-3,"Oakwood Chemical, 242552",250,,,,ethanol
+G22,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Anthraquinone",,635-12-1,"Alfa Aesar, L00573",233,,,,ethanol
+G23,https://photochemcad.com/databases/common-compounds/quinones,"5,12-Naphthacenequinone",Tetracenequinone,1090-13-7,"Sigma-Aldrich, 198773",296,,,0.43,benzene
+G24,https://photochemcad.com/databases/common-compounds/quinones,"6,13-Pentacenequinone",,3029-32-1,"Sigma-Aldrich, 246883",303,,,0.54,benzene
+G01,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Benzoquinone",,106-51-4,"Sigma-Aldrich, B10358",239.75,,,,acetonitrile
+G02,https://photochemcad.com/databases/common-compounds/quinones,Hydroquinone,"1,4-Benzenediol, 1,4-Dihydroxybenzene",123-31-9,"Sigma-Aldrich, 240125",225,,,0.16,acetonitrile
+G03,https://photochemcad.com/databases/common-compounds/quinones,"2,3,5,6-Tetrachloro-1,4-benzoquinone",p-Chloranil,118-75-2,"Sigma-Aldrich, 232017",288,,,,acetonitrile
+G04,https://photochemcad.com/databases/common-compounds/quinones,Tetrachlorohydroquinone,"2,3,5,6-Tetrachloro-1,4-benzendiol",87-87-6,"Sigma-Aldrich, T2153",211,,,,acetonitrile
+G05,https://photochemcad.com/databases/common-compounds/quinones,"2,3,5,6-Tetramethyl-1,4-benzoquinone",Duroquinone,527-17-3,"Sigma-Aldrich, D223204",270,,,,acetonitrile
+G06,https://photochemcad.com/databases/common-compounds/quinones,"2,3-Dichloro-5,6-dicyano-1,4-benzoquinone",DDQ,84-58-2,"Oakwood Chemical, 127800",287,,,,chloroform
+G07,https://photochemcad.com/databases/common-compounds/quinones,"3,4,5,6-Tetrachloro-1,2-benzoquinone",o-Chloranil,2435-53-2,"Sigma-Aldrich, T6601",458,,,,chloroform
+G08,https://photochemcad.com/databases/common-compounds/quinones,"2,5-Diphenyl-1,4-benzoquinone",,844-51-9,"Alfa Aesar, A15369",243,,,,acetonitrile
+G09,https://photochemcad.com/databases/common-compounds/quinones,"2,5-Di-tert-butyl-1,4-benzoquinone",,2460-77-7,"Sigma-Aldrich, 419648",258,,,,acetonitrile
+G10,https://photochemcad.com/databases/common-compounds/quinones,Tetracyanoethylene,TCNE,670-54-2,"Alfa Aesar, A13945",267,,,,chloroform
+G11,https://photochemcad.com/databases/common-compounds/quinones,"7,7,8,8-Tetracyanoquinodimethane",TCNQ,1518-16-7,"TCI, T0078",401,,,,chloroform
+G12,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Naphthoquinone",alpha-Naphthoquinone,130-15-4,"TCI, N0040",246,,,,ethanol
+G13,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Naphthoquinone-2-sulfonic acid, Potassium salt",,34169-62-5,"Sigma-Aldrich, S970999",255,,,,water
+G14,https://photochemcad.com/databases/common-compounds/quinones,"2,3-Dichloro-1,4-naphthoquinone",Dichlone,117-80-6,"Oakwood Chemical, 223440",280,,,,ethanol
+G15,https://photochemcad.com/databases/common-compounds/quinones,"2-Methyl-1,4-naphthoquinone","Menadione, Vitamin K3",58-27-5,"Sigma-Aldrich, M5625",251,,,,ethanol
+G16,https://photochemcad.com/databases/common-compounds/quinones,"9,10-Phenanthrenequinone",,84-11-7,"Sigma-Aldrich, 156507",268,,,,chloroform
+G17,https://photochemcad.com/databases/common-compounds/quinones,"1,2-Naphthoquinone",beta-Naphthoquinone,524-42-5,"Sigma-Aldrich, 346616",249,,,,methanol
+G18,https://photochemcad.com/databases/common-compounds/quinones,"1,2-Naphthoquinone-4-sulfonic acid, sodium salt",,521-24-4,"Sigma-Aldrich, 226017",250,,,,methanol
+G19,https://photochemcad.com/databases/common-compounds/quinones,"9,10-Anthraquinone",,84-65-1,"Sigma-Aldrich, A90004",251.25,,,,ethanol
+G20,https://photochemcad.com/databases/common-compounds/quinones,Alizarin,"1,2-Dihydroxyanthraquinone, Mordant Red 11",72-48-0,"TCI, D0242",248,,,,ethanol
+G21,https://photochemcad.com/databases/common-compounds/quinones,Alizarin Red S,,130-22-3,"Oakwood Chemical, 242552",250,,,,ethanol
+G22,https://photochemcad.com/databases/common-compounds/quinones,"1,4-Anthraquinone",,635-12-1,"Alfa Aesar, L00573",233,,,,ethanol
+G23,https://photochemcad.com/databases/common-compounds/quinones,"5,12-Naphthacenequinone",Tetracenequinone,1090-13-7,"Sigma-Aldrich, 198773",296,,,0.43,benzene
+G24,https://photochemcad.com/databases/common-compounds/quinones,"6,13-Pentacenequinone",,3029-32-1,"Sigma-Aldrich, 246883",303,,,0.54,benzene
+,,,,,,,,,,
+H01,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin,,91-64-5,"TCI, C0395",275,,,,ethanol
+H02,https://photochemcad.com/databases/common-compounds/coumarins,4-Hydroxycoumarin,,1076-38-6,"Oakwood Chemical, 209309",280,,,0.003,ethanol
+H03,https://photochemcad.com/databases/common-compounds/coumarins,7-Hydroxycoumarin,Umbelliferone,93-35-6,"Oakwood Chemical, 076753",326,,,0.08,methanol
+H04,https://photochemcad.com/databases/common-compounds/coumarins,7-Hydroxy-4-(trifluoromethyl)coumarin,4-trifluoromethylumbeliferone,575-03-1,"Oakwood Chemical, 006626",338,,,0.2,ethanol
+H05,https://photochemcad.com/databases/common-compounds/coumarins,7-Methoxycoumarin-4-acetic acid,,62935-72-2,,323.75,,,0.18,methanol
+H06,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 1,7-(Diethylamino)-4-methylcoumarin,91-44-1,,373.25,,,0.5,ethanol
+H07,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 6,,38215-36-0,,459.25,,,0.78,ethanol
+H08,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 7,3-(2-Benzimidazolyl)-7-(diethylamino)coumarin,27425-55-4,"TCI, B2111",436,,,0.82,methanol
+H09,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 30,,41044-12-6,,407.5,,,0.8,ethanol
+H10,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 151,7-Amino-4-(trifluoromethyl)coumarin,53518-15-3,"Oakwood Chemical, 004029",384,,,0.53,ethanol
+H11,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 314,,55804-66-5,,436,,,0.68,ethanol
+H12,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 343,,55804-65-4,,444.75,,,0.63,ethanol
+H13,https://photochemcad.com/databases/common-compounds/coumarins,Calcein Blue,4-Methylumbelliferone-8-methyliminodiacetic acid,54375-47-2,"Sigma-Aldrich, M1255",361,,,0.59,PBS
+H14,https://photochemcad.com/databases/common-compounds/coumarins,Urolithin B,3-Hydroxy-6H-benzo[c]chromen-6-one,1139-83-9,"Sigma-Aldrich, OTV000001",278,,,0.21,dimethylformamide
+H01,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin,,91-64-5,"TCI, C0395",275,,,,ethanol
+H02,https://photochemcad.com/databases/common-compounds/coumarins,4-Hydroxycoumarin,,1076-38-6,"Oakwood Chemical, 209309",280,,,0.003,ethanol
+H03,https://photochemcad.com/databases/common-compounds/coumarins,7-Hydroxycoumarin,Umbelliferone,93-35-6,"Oakwood Chemical, 076753",326,,,0.08,methanol
+H04,https://photochemcad.com/databases/common-compounds/coumarins,7-Hydroxy-4-(trifluoromethyl)coumarin,4-trifluoromethylumbeliferone,575-03-1,"Oakwood Chemical, 006626",338,,,0.2,ethanol
+H05,https://photochemcad.com/databases/common-compounds/coumarins,7-Methoxycoumarin-4-acetic acid,,62935-72-2,,323.75,,,0.18,methanol
+H06,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 1,7-(Diethylamino)-4-methylcoumarin,91-44-1,,373.25,,,0.5,ethanol
+H07,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 6,,38215-36-0,,459.25,,,0.78,ethanol
+H08,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 7,3-(2-Benzimidazolyl)-7-(diethylamino)coumarin,27425-55-4,"TCI, B2111",436,,,0.82,methanol
+H09,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 30,,41044-12-6,,407.5,,,0.8,ethanol
+H10,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 151,7-Amino-4-(trifluoromethyl)coumarin,53518-15-3,"Oakwood Chemical, 004029",384,,,0.53,ethanol
+H11,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 314,,55804-66-5,,436,,,0.68,ethanol
+H12,https://photochemcad.com/databases/common-compounds/coumarins,Coumarin 343,,55804-65-4,,444.75,,,0.63,ethanol
+H13,https://photochemcad.com/databases/common-compounds/coumarins,Calcein Blue,4-Methylumbelliferone-8-methyliminodiacetic acid,54375-47-2,"Sigma-Aldrich, M1255",361,,,0.59,PBS
+H14,https://photochemcad.com/databases/common-compounds/coumarins,Urolithin B,3-Hydroxy-6H-benzo[c]chromen-6-one,1139-83-9,"Sigma-Aldrich, OTV000001",278,,,0.21,dimethylformamide
+,,,,,,,,,,
+I01,https://photochemcad.com/databases/common-compounds/acridines,Acridine,,260-94-6,"Oakwood Chemical, 332696-1g",247,,,0.0079,ethanol
+I02,https://photochemcad.com/databases/common-compounds/acridines,Proflavine hydrochloride,"3,6-Diaminoacridine hydrochloride",952-23-8,"Sigma-Aldrich, 131105",261,,,0.34,water (pH 4)
+I03,https://photochemcad.com/databases/common-compounds/acridines,Acridine Orange,Basic Orange 14,65-61-2,,270.5,,,0.2,ethanol (basic)
+I04,https://photochemcad.com/databases/common-compounds/acridines,Acridine Yellow G,"3,6-Diamino-2,7-dimethylacridine",135-49-9,"Sigma-Aldrich, 199508",264,,,0.47,ethanol
+I05,https://photochemcad.com/databases/common-compounds/acridines,Acridone,"9(10H)-Acridanone, 9,10-Dihydro-9-oxoacridine",578-95-0,"Oakwood Chemical, 078876",249,,,0.42,ethanol
+I06,https://photochemcad.com/databases/common-compounds/acridines,Phenazine,,92-82-0,"Oakwood Chemical, 240993",248,,,,ethanol
+I07,https://photochemcad.com/databases/common-compounds/acridines,Phenosafranin,,81-93-6,"Sigma-Aldrich, 199648",533,,,0.2,methanol
+I08,https://photochemcad.com/databases/common-compounds/acridines,Neutral Red,Basic Red 5,553-24-2,"Sigma-Aldrich, 72210",278,,,0.044,ethanol
+I09,https://photochemcad.com/databases/common-compounds/acridines,Janus Green B,,2869-83-2,"Alfa Aesar, A17391",587,,,,PBS
+I10,https://photochemcad.com/databases/common-compounds/acridines,Phenothiazine,10H-Phenothiazine,92-84-2,"TCI, P0106",253,,,0.006,cyclohexane
+I11,https://photochemcad.com/databases/common-compounds/acridines,Thionin,"Thionine, 3,7-Diaminophenothiazin-5-Ium Chloride",26754-93-8,,605,,,0.04,ethanol
+I12,https://photochemcad.com/databases/common-compounds/acridines,Methylene blue,Basic Blue 9 Hydrate,61-73-4,"TCI, M0501",656,,,0.04,ethanol
+I13,https://photochemcad.com/databases/common-compounds/acridines,Azure II,,37247-10-2,"Alfa Aesar, A11777",654,,,0.04,ethanol
+I14,https://photochemcad.com/databases/common-compounds/acridines,Toluidine Blue O,Basic Blue 17,92-31-9,"Sigma-Aldrich, 198161",628,,,0.076,ethanol
+I15,https://photochemcad.com/databases/common-compounds/acridines,Phenoxathiin,,262-20-4,"Sigma-Aldrich, 218820",237,,,,ethanol
+I16,https://photochemcad.com/databases/common-compounds/acridines,Phenoxazine,,135-67-1,"TCI, P0899",239,,,0.025,ethanol
+I17,https://photochemcad.com/databases/common-compounds/acridines,Oxazine 1,"Oxazine 725, Oxazine 1 perchlorate",24796-94-9,"Sigma-Aldrich, 370096",642.5,,,0.11,ethanol
+I18,https://photochemcad.com/databases/common-compounds/acridines,Cresyl Violet perchlorate,Cresyl Violet 670,41830-80-2,,603,,,0.54,methanol
+I19,https://photochemcad.com/databases/common-compounds/acridines,Nile Red,"Nile Blue A Oxazone, Oxazine 17",7385-67-3,,519.4,,,0.7,dioxane
+I20,https://photochemcad.com/databases/common-compounds/acridines,Nile Blue,Nile Blue A perchlorate,53340-16-2,,627.5,,,0.27,ethanol
+I21,https://photochemcad.com/databases/common-compounds/acridines,Oxazine 170,"Oxazine 720, Oxazine 170 perchlorate",62669-60-7,"Sigma-Aldrich, 372056",613.25,,,0.63,methanol
+I01,https://photochemcad.com/databases/common-compounds/acridines,Acridine,,260-94-6,"Oakwood Chemical, 332696-1g",247,,,0.0079,ethanol
+I02,https://photochemcad.com/databases/common-compounds/acridines,Proflavine hydrochloride,"3,6-Diaminoacridine hydrochloride",952-23-8,"Sigma-Aldrich, 131105",261,,,0.34,water (pH 4)
+I03,https://photochemcad.com/databases/common-compounds/acridines,Acridine Orange,Basic Orange 14,65-61-2,,270.5,,,0.2,ethanol (basic)
+I04,https://photochemcad.com/databases/common-compounds/acridines,Acridine Yellow G,"3,6-Diamino-2,7-dimethylacridine",135-49-9,"Sigma-Aldrich, 199508",264,,,0.47,ethanol
+I05,https://photochemcad.com/databases/common-compounds/acridines,Acridone,"9(10H)-Acridanone, 9,10-Dihydro-9-oxoacridine",578-95-0,"Oakwood Chemical, 078876",249,,,0.42,ethanol
+I06,https://photochemcad.com/databases/common-compounds/acridines,Phenazine,,92-82-0,"Oakwood Chemical, 240993",248,,,,ethanol
+I07,https://photochemcad.com/databases/common-compounds/acridines,Phenosafranin,,81-93-6,"Sigma-Aldrich, 199648",533,,,0.2,methanol
+I08,https://photochemcad.com/databases/common-compounds/acridines,Neutral Red,Basic Red 5,553-24-2,"Sigma-Aldrich, 72210",278,,,0.044,ethanol
+I09,https://photochemcad.com/databases/common-compounds/acridines,Janus Green B,,2869-83-2,"Alfa Aesar, A17391",587,,,,PBS
+I10,https://photochemcad.com/databases/common-compounds/acridines,Phenothiazine,10H-Phenothiazine,92-84-2,"TCI, P0106",253,,,0.006,cyclohexane
+I11,https://photochemcad.com/databases/common-compounds/acridines,Thionin,"Thionine, 3,7-Diaminophenothiazin-5-Ium Chloride",26754-93-8,,605,,,0.04,ethanol
+I12,https://photochemcad.com/databases/common-compounds/acridines,Methylene blue,Basic Blue 9 Hydrate,61-73-4,"TCI, M0501",656,,,0.04,ethanol
+I13,https://photochemcad.com/databases/common-compounds/acridines,Azure II,,37247-10-2,"Alfa Aesar, A11777",654,,,0.04,ethanol
+I14,https://photochemcad.com/databases/common-compounds/acridines,Toluidine Blue O,Basic Blue 17,92-31-9,"Sigma-Aldrich, 198161",628,,,0.076,ethanol
+I15,https://photochemcad.com/databases/common-compounds/acridines,Phenoxathiin,,262-20-4,"Sigma-Aldrich, 218820",237,,,,ethanol
+I16,https://photochemcad.com/databases/common-compounds/acridines,Phenoxazine,,135-67-1,"TCI, P0899",239,,,0.025,ethanol
+I17,https://photochemcad.com/databases/common-compounds/acridines,Oxazine 1,"Oxazine 725, Oxazine 1 perchlorate",24796-94-9,"Sigma-Aldrich, 370096",642.5,,,0.11,ethanol
+I18,https://photochemcad.com/databases/common-compounds/acridines,Cresyl Violet perchlorate,Cresyl Violet 670,41830-80-2,,603,,,0.54,methanol
+I19,https://photochemcad.com/databases/common-compounds/acridines,Nile Red,"Nile Blue A Oxazone, Oxazine 17",7385-67-3,,519.4,,,0.7,dioxane
+I20,https://photochemcad.com/databases/common-compounds/acridines,Nile Blue,Nile Blue A perchlorate,53340-16-2,,627.5,,,0.27,ethanol
+I21,https://photochemcad.com/databases/common-compounds/acridines,Oxazine 170,"Oxazine 720, Oxazine 170 perchlorate",62669-60-7,"Sigma-Aldrich, 372056",613.25,,,0.63,methanol
+,,,,,,,,,,
+J01,https://photochemcad.com/databases/common-compounds/azo-dyes,Azobenzene,,103-33-3,,319,,,,benzene
+J02,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 2,"Methyl Red, 4-Dimethylaminoazobenzene-2'-carboxylic Acid",493-52-7,"TCI, M0421",430,,,,PBS
+J03,https://photochemcad.com/databases/common-compounds/azo-dyes,Methyl Orange,Acid Orange 52,547-58-0,"Oakwood Chemical, 492450",466,,,,PBS
+J04,https://photochemcad.com/databases/common-compounds/azo-dyes,Orange G,Acid Orange 10,1936-15-8,"Sigma-Aldrich, O3756",478,,,,PBS
+J05,https://photochemcad.com/databases/common-compounds/azo-dyes,Orange II,Acid Orange 7,633-96-5,"TCI, G0158",486,,,,PBS
+J06,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 88,"Acid Red A, Fast Red, 2-Naphthol Red",1658-56-6,"TCI, F0087",503,,,,PBS
+J07,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan I,1-Phenylazo-2-naphthol,842-07-9,"Oakwood Chemical, 099186",481,,,,ethanol
+J08,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan II,"Solvent Orange 7, 1-(2,4-Xylidylazo)-2-naphthol",3118-97-6,"TCI, O0101",498,,,,ethanol
+J09,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Violet 3,,1681-60-3,"TCI, P0592",555,,,,PBS
+J10,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 1,Azophloxine,3734-67-6,"TCI, A0585",530,,,,PBS
+J11,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 14,"Azo Rubine, Carmoisine",3567-69-9,"TCI, A0580",512,,,,PBS
+J12,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Blue 92,Acid Blue A,3861-73-2,"TCI, C1027",563,,,,PBS
+J13,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan III,Solvent Red 23,85-86-9,"TCI, S0142",504,,,,ethanol
+J14,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan IV,Solvent Red 24,85-83-6,"TCI, O0100",518,,,,ethanol
+J15,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Black 1,Naphthol Blue Black,1064-48-8,"TCI, A2097",619,,,,PBS
+J16,https://photochemcad.com/databases/common-compounds/azo-dyes,Ponceau S,Acid Red 112,6226-79-5,"Sigma-Aldrich, P3504",513,,,,PBS
+J17,https://photochemcad.com/databases/common-compounds/azo-dyes,Congo Red,Direct Red 28,573-58-0,"Ward's Science, 470300-790",483,,,,PBS
+J18,https://photochemcad.com/databases/common-compounds/azo-dyes,Benzopurpurin 4B,"Direct Red 2, Benzopurpurin",992-59-6,,497,,,,water
+J19,https://photochemcad.com/databases/common-compounds/azo-dyes,Evans Blue,Direct Blue 53,314-13-6,"Alfa Aesar, A16774",606,,,,PBS
+J01,https://photochemcad.com/databases/common-compounds/azo-dyes,Azobenzene,,103-33-3,,319,,,,benzene
+J02,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 2,"Methyl Red, 4-Dimethylaminoazobenzene-2'-carboxylic Acid",493-52-7,"TCI, M0421",430,,,,PBS
+J03,https://photochemcad.com/databases/common-compounds/azo-dyes,Methyl Orange,Acid Orange 52,547-58-0,"Oakwood Chemical, 492450",466,,,,PBS
+J04,https://photochemcad.com/databases/common-compounds/azo-dyes,Orange G,Acid Orange 10,1936-15-8,"Sigma-Aldrich, O3756",478,,,,PBS
+J05,https://photochemcad.com/databases/common-compounds/azo-dyes,Orange II,Acid Orange 7,633-96-5,"TCI, G0158",486,,,,PBS
+J06,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 88,"Acid Red A, Fast Red, 2-Naphthol Red",1658-56-6,"TCI, F0087",503,,,,PBS
+J07,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan I,1-Phenylazo-2-naphthol,842-07-9,"Oakwood Chemical, 099186",481,,,,ethanol
+J08,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan II,"Solvent Orange 7, 1-(2,4-Xylidylazo)-2-naphthol",3118-97-6,"TCI, O0101",498,,,,ethanol
+J09,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Violet 3,,1681-60-3,"TCI, P0592",555,,,,PBS
+J10,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 1,Azophloxine,3734-67-6,"TCI, A0585",530,,,,PBS
+J11,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Red 14,"Azo Rubine, Carmoisine",3567-69-9,"TCI, A0580",512,,,,PBS
+J12,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Blue 92,Acid Blue A,3861-73-2,"TCI, C1027",563,,,,PBS
+J13,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan III,Solvent Red 23,85-86-9,"TCI, S0142",504,,,,ethanol
+J14,https://photochemcad.com/databases/common-compounds/azo-dyes,Sudan IV,Solvent Red 24,85-83-6,"TCI, O0100",518,,,,ethanol
+J15,https://photochemcad.com/databases/common-compounds/azo-dyes,Acid Black 1,Naphthol Blue Black,1064-48-8,"TCI, A2097",619,,,,PBS
+J16,https://photochemcad.com/databases/common-compounds/azo-dyes,Ponceau S,Acid Red 112,6226-79-5,"Sigma-Aldrich, P3504",513,,,,PBS
+J17,https://photochemcad.com/databases/common-compounds/azo-dyes,Congo Red,Direct Red 28,573-58-0,"Ward's Science, 470300-790",483,,,,PBS
+J18,https://photochemcad.com/databases/common-compounds/azo-dyes,Benzopurpurin 4B,"Direct Red 2, Benzopurpurin",992-59-6,,497,,,,water
+J19,https://photochemcad.com/databases/common-compounds/azo-dyes,Evans Blue,Direct Blue 53,314-13-6,"Alfa Aesar, A16774",606,,,,PBS
+,,,,,,,,,,
+K01,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-cyanine iodide",DEC,977-96-8,,524.25,,,,ethanol
+K02,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-carbocyanine iodide","Pinacyanol iodide, DECC",605-91-4,,603.5,,,0.001,methanol
+K03,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-dicarbocyanine iodide",DDI,14187-31-6,"Sigma-Aldrich, 392197",711,,,0.0028,ethanol
+K04,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-cyanine iodide",,4727-49-5,"Sigma-Aldrich, 291331",592,,,,ethanol
+K05,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-carbocyanine iodide","DCI, Cryptocyanine, Kryptocyanin",4727-50-8,,709.5,,,0.007,ethanol
+K06,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-dicarbocyanine iodide",,18300-31-7,"Sigma-Aldrich, 392200",818,,,0.033,DMSO
+K07,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxacarbocyanine iodide","DOC, DOCI",905-96-4,,485,,,0.05,methanol
+K08,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxadicarbocyanine iodide","DODC, DODCI",14806-50-9,,582,,,0.49,ethanol
+K09,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxatricarbocyanine iodide","DOTC, DOTCI",15185-43-0,,687.5,,,0.49,ethanol
+K10,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindocarbocyanine Iodide",,14696-39-0,,544.25,,,0.07,methanol
+K11,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindodicarbocyanine Iodide",,17094-16-5,,637.5,,,0.4,methanol
+K12,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindotricarbocyanine Iodide",HITCI,15185-47-4,,742.25,,,0.28,ethanol
+K13,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Indocyanine Green,"ICG, Cardiogreen",3599-32-4,"Sigma-Aldrich, I2633",789,,,0.05,ethanol
+K14,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiacarbocyanine iodide","DTC, DTCI",905-97-5,,559.25,,,0.05,ethanol
+K15,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiadicarbocyanine iodide","DTDC, DTDCI",514-73-8,,655.75,,,0.35,ethanol
+K16,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiatricarbocyanine iodide","DTTC, DTTCI",3071-70-3,,763.25,,,,isopropanol
+K17,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Merocyanine 540,,62796-23-0,,559.5,,,0.39,ethanol
+K18,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"4-(dicyanomethylene)-2-methyl-6-(p-dimethylaminostyryl)-4H-pyran, [DCM]",DCM,51325-91-8,,468,,,0.43,methanol
+K19,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Stains all,"3,3_-Diethyl-9-methyl-4,5,4_,5_-dibenzothiacarbocyanine",7423-31-6,"Sigma-Aldrich, E9379",575.5,,,0,
+K01,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-cyanine iodide",DEC,977-96-8,,524.25,,,,ethanol
+K02,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-carbocyanine iodide","Pinacyanol iodide, DECC",605-91-4,,603.5,,,0.001,methanol
+K03,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-2,2'-dicarbocyanine iodide",DDI,14187-31-6,"Sigma-Aldrich, 392197",711,,,0.0028,ethanol
+K04,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-cyanine iodide",,4727-49-5,"Sigma-Aldrich, 291331",592,,,,ethanol
+K05,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-carbocyanine iodide","DCI, Cryptocyanine, Kryptocyanin",4727-50-8,,709.5,,,0.007,ethanol
+K06,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-4,4'-dicarbocyanine iodide",,18300-31-7,"Sigma-Aldrich, 392200",818,,,0.033,DMSO
+K07,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxacarbocyanine iodide","DOC, DOCI",905-96-4,,485,,,0.05,methanol
+K08,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxadicarbocyanine iodide","DODC, DODCI",14806-50-9,,582,,,0.49,ethanol
+K09,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethyloxatricarbocyanine iodide","DOTC, DOTCI",15185-43-0,,687.5,,,0.49,ethanol
+K10,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindocarbocyanine Iodide",,14696-39-0,,544.25,,,0.07,methanol
+K11,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindodicarbocyanine Iodide",,17094-16-5,,637.5,,,0.4,methanol
+K12,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"1,1'-Diethyl-3,3,3',3'-tetramethylindotricarbocyanine Iodide",HITCI,15185-47-4,,742.25,,,0.28,ethanol
+K13,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Indocyanine Green,"ICG, Cardiogreen",3599-32-4,"Sigma-Aldrich, I2633",789,,,0.05,ethanol
+K14,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiacarbocyanine iodide","DTC, DTCI",905-97-5,,559.25,,,0.05,ethanol
+K15,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiadicarbocyanine iodide","DTDC, DTDCI",514-73-8,,655.75,,,0.35,ethanol
+K16,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"3,3'-Diethylthiatricarbocyanine iodide","DTTC, DTTCI",3071-70-3,,763.25,,,,isopropanol
+K17,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Merocyanine 540,,62796-23-0,,559.5,,,0.39,ethanol
+K18,https://photochemcad.com/databases/common-compounds/cyanine-dyes,"4-(dicyanomethylene)-2-methyl-6-(p-dimethylaminostyryl)-4H-pyran, [DCM]",DCM,51325-91-8,,468,,,0.43,methanol
+K19,https://photochemcad.com/databases/common-compounds/cyanine-dyes,Stains all,"3,3_-Diethyl-9-methyl-4,5,4_,5_-dibenzothiacarbocyanine",7423-31-6,"Sigma-Aldrich, E9379",575.5,,,0,
+,,,,,,,,,,
+L01,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Auramine O,"Basic Yellow 2, Pyoctaninum aureum",2465-27-2,,431.25,,,0.03,glycerol
+L02,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Malachite Green,Basic Green 4,2437-29-8,,616.5,,,,water
+L03,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Crystal Violet,Basic Violet 3,548-62-9,,590.5,,,0.019,glycerol
+L04,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,p-Fuchsin,Basic Fuchsin,632-99-5,"Alfa Aesar, A12952",543,,,,PBS
+L05,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Violet,Basic Violet 1,8004-87-3,"Sigma-Aldrich, 69710",585,,,,PBS
+L06,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Green,,7114-03-6,"Sigma-Aldrich, M8884",632,,,,PBS
+L07,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Blue,Acid Blue 93,28983-56-4,"Sigma-Aldrich, 95290",590,,,,PBS
+L08,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Phenolphthalein,,77-09-8,"TCI, P0094",554,,,,0.1 N NaOH aq
+L09,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Phenol Red,Phenolsulfonphthalein,143-74-8,"TCI, P0100",558,,,,0.1 N NaOH aq
+L10,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Cresol Red,,1733-12-6,"TCI, C0406",573,,,,0.1 N NaOH aq
+L11,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Thymol Blue,,76-61-9,"TCI, T0235",597,,,,0.1 N NaOH aq
+L01,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Auramine O,"Basic Yellow 2, Pyoctaninum aureum",2465-27-2,,431.25,,,0.03,glycerol
+L02,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Malachite Green,Basic Green 4,2437-29-8,,616.5,,,,water
+L03,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Crystal Violet,Basic Violet 3,548-62-9,,590.5,,,0.019,glycerol
+L04,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,p-Fuchsin,Basic Fuchsin,632-99-5,"Alfa Aesar, A12952",543,,,,PBS
+L05,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Violet,Basic Violet 1,8004-87-3,"Sigma-Aldrich, 69710",585,,,,PBS
+L06,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Green,,7114-03-6,"Sigma-Aldrich, M8884",632,,,,PBS
+L07,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Methyl Blue,Acid Blue 93,28983-56-4,"Sigma-Aldrich, 95290",590,,,,PBS
+L08,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Phenolphthalein,,77-09-8,"TCI, P0094",554,,,,0.1 N NaOH aq
+L09,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Phenol Red,Phenolsulfonphthalein,143-74-8,"TCI, P0100",558,,,,0.1 N NaOH aq
+L10,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Cresol Red,,1733-12-6,"TCI, C0406",573,,,,0.1 N NaOH aq
+L11,https://photochemcad.com/databases/common-compounds/arylmethane-dyes,Thymol Blue,,76-61-9,"TCI, T0235",597,,,,0.1 N NaOH aq
+,,,,,,,,,,
+M01,https://photochemcad.com/databases/common-compounds/perylenes,Perylene,,198-55-0,,435.75,,,0.94,cyclohexane
+M02,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI","N-(2,6-diisopropylphenyl)perylene-3,4-dicarboximide",165550-61-8,,507,,,0.91,toluene
+M03,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI(OR)","9-(4-tert-butylphenoxy)-N-(2,6-diisopropylphenylL)-3,4-perylenedicarboximide",RRN 9309914,,507,,,0.82,toluene
+M04,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI(OR)3","1,6,9-tris(4-tert-butylphenoxy)-N-(2,6-diisopropyl-4-ethynylphenyl)-3,4-perylenedicarboximide",468083-01-4,,536,,,0.86,toluene
+M05,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PDI","N,N_-Bis(2,5-di-tert-butylphenyl)-3,4,9,10-perylenedicarboximide",83054-80-2,"Sigma-Aldrich, 264229",528,,,0.97,toluene
+M01,https://photochemcad.com/databases/common-compounds/perylenes,Perylene,,198-55-0,,435.75,,,0.94,cyclohexane
+M02,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI","N-(2,6-diisopropylphenyl)perylene-3,4-dicarboximide",165550-61-8,,507,,,0.91,toluene
+M03,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI(OR)","9-(4-tert-butylphenoxy)-N-(2,6-diisopropylphenylL)-3,4-perylenedicarboximide",RRN 9309914,,507,,,0.82,toluene
+M04,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PMI(OR)3","1,6,9-tris(4-tert-butylphenoxy)-N-(2,6-diisopropyl-4-ethynylphenyl)-3,4-perylenedicarboximide",468083-01-4,,536,,,0.86,toluene
+M05,https://photochemcad.com/databases/common-compounds/perylenes,"Perylene, PDI","N,N_-Bis(2,5-di-tert-butylphenyl)-3,4,9,10-perylenedicarboximide",83054-80-2,"Sigma-Aldrich, 264229",528,,,0.97,toluene
+,,,,,,,,,,
+N01,https://photochemcad.com/databases/common-compounds/xanthenes,Fluorescein,,2321-07-5,,500.25,,,0.97,ethanol (basic)
+N02,https://photochemcad.com/databases/common-compounds/xanthenes,"2',7'-Dichlorofluorescein",,76-54-0,"TCI, D0371",502,,,0.58,30% tris buffered (in DMSO)
+N03,https://photochemcad.com/databases/common-compounds/xanthenes,"3,4,5,6-Tetrachlorofluorescein",,6262-21-1,"TCI, T0066",509,,,0.65,PBS
+N04,https://photochemcad.com/databases/common-compounds/xanthenes,Eosin B,"Acid Red 91, Saffrosine, Safrosin",548-24-3,"TCI, E0204",527,,,0.63,ethanol
+N05,https://photochemcad.com/databases/common-compounds/xanthenes,Eosin Y,Acid Red 87,17372-87-1,"TCI, T0037",524.75,,,0.67,ethanol
+N06,https://photochemcad.com/databases/common-compounds/xanthenes,Phloxine B,Acid Red 92,18472-87-2,"TCI, T0050",550,,,0.67,ethanol
+N07,https://photochemcad.com/databases/common-compounds/xanthenes,Erythrosine B,,16423-68-0,"TCI, T0557",535,,,0.08,ethanol
+N08,https://photochemcad.com/databases/common-compounds/xanthenes,Rose bengal,"Acid Red 94, 4,5,6,7-Tetrachloro-2',4',5',7'-tetraiodofluorescein",11121-48-5,,559,,,0.11,ethanol (basic)
+N09,https://photochemcad.com/databases/common-compounds/xanthenes,Xantphos,"4,5-Bis(diphenylphosphino)-9,9-dimethylxanthene",161265-03-8,"Sigma-Aldrich, 526460",261,,,0.16,dichloromethane
+N10,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 123,,62669-70-9,,511.75,,,0.86,ethanol
+N11,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine B,,81-88-9,,542.75,,,0.7,ethanol
+N12,https://photochemcad.com/databases/common-compounds/xanthenes,Sulforhodamine B,Acid Red 52,3520-42-1,"Sigma-Aldrich, S1402",553,,,0.7,ethanol
+N13,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 6G,,989-38-8,,529.75,,,0.95,ethanol
+N14,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 101 inner salt,,41175-43-3 (116450-56-7),"Acros, 41906-0010",565,,,0.98,ethanol
+N15,https://photochemcad.com/databases/common-compounds/xanthenes,Sulforhodamine 101,,60311-02-6,,576,,,0.9,ethanol
+N01,https://photochemcad.com/databases/common-compounds/xanthenes,Fluorescein,,2321-07-5,,500.25,,,0.97,ethanol (basic)
+N02,https://photochemcad.com/databases/common-compounds/xanthenes,"2',7'-Dichlorofluorescein",,76-54-0,"TCI, D0371",502,,,0.58,30% tris buffered (in DMSO)
+N03,https://photochemcad.com/databases/common-compounds/xanthenes,"3,4,5,6-Tetrachlorofluorescein",,6262-21-1,"TCI, T0066",509,,,0.65,PBS
+N04,https://photochemcad.com/databases/common-compounds/xanthenes,Eosin B,"Acid Red 91, Saffrosine, Safrosin",548-24-3,"TCI, E0204",527,,,0.63,ethanol
+N05,https://photochemcad.com/databases/common-compounds/xanthenes,Eosin Y,Acid Red 87,17372-87-1,"TCI, T0037",524.75,,,0.67,ethanol
+N06,https://photochemcad.com/databases/common-compounds/xanthenes,Phloxine B,Acid Red 92,18472-87-2,"TCI, T0050",550,,,0.67,ethanol
+N07,https://photochemcad.com/databases/common-compounds/xanthenes,Erythrosine B,,16423-68-0,"TCI, T0557",535,,,0.08,ethanol
+N08,https://photochemcad.com/databases/common-compounds/xanthenes,Rose bengal,"Acid Red 94, 4,5,6,7-Tetrachloro-2',4',5',7'-tetraiodofluorescein",11121-48-5,,559,,,0.11,ethanol (basic)
+N09,https://photochemcad.com/databases/common-compounds/xanthenes,Xantphos,"4,5-Bis(diphenylphosphino)-9,9-dimethylxanthene",161265-03-8,"Sigma-Aldrich, 526460",261,,,0.16,dichloromethane
+N10,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 123,,62669-70-9,,511.75,,,0.86,ethanol
+N11,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine B,,81-88-9,,542.75,,,0.7,ethanol
+N12,https://photochemcad.com/databases/common-compounds/xanthenes,Sulforhodamine B,Acid Red 52,3520-42-1,"Sigma-Aldrich, S1402",553,,,0.7,ethanol
+N13,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 6G,,989-38-8,,529.75,,,0.95,ethanol
+N14,https://photochemcad.com/databases/common-compounds/xanthenes,Rhodamine 101 inner salt,,41175-43-3 (116450-56-7),"Acros, 41906-0010",565,,,0.98,ethanol
+N15,https://photochemcad.com/databases/common-compounds/xanthenes,Sulforhodamine 101,,60311-02-6,,576,,,0.9,ethanol
+,,,,,,,,,,
+O01,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Dansylglycine,[5-(Dimethylamino)naphthalene-1-sulfonyl]glycine,1091-85-6,,338.5,,,0.66,dioxane
+O02,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Lucifer Yellow CH,Lucifer Yellow CH dilithium salt,67769-47-5,,279.75,,,0.21,water
+O03,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Piroxicam,,36322-90-4,,325,,,0.035,hexane
+O04,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,"1,2,3,4,5-Pentamethylcyclopentadiene",,4045-44-7,"Sigma-Aldrich, 214027",249,,,,ethanol
+O05,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Ethidium Bromide,,1239-45-8,"TCI, E0370",285,,,0.039,water
+O06,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,"4',6-Diamidino-2-phenylindole, [DAPI]",DAPI,28718-90-3,,344,,,0.043,water
+O07,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Hoechst 33258,,23491-45-4,,345.5,,,0.034,water
+O08,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Squarylium dye III,,43134-09-4,,627.25,,,0.65,dichloromethane
+O09,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Ellagic Acid Dihydrate,,133039-73-3,"TCI, E0375",276,,,,PBS
+O10,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Betalamic Acid,,18766-66-0,,424,,,,water
+O11,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Betanin,,7659-95-2,"TCI, B0397",535,,,,PBS
+O12,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Rutin trihydrate,,153-18-4,"Acros, 132390050",205,,,,methanol
+O13,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Hesperidin,,520-26-3,"Acros, 123460050",203,,,,methanol
+O01,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Dansylglycine,[5-(Dimethylamino)naphthalene-1-sulfonyl]glycine,1091-85-6,,338.5,,,0.66,dioxane
+O02,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Lucifer Yellow CH,Lucifer Yellow CH dilithium salt,67769-47-5,,279.75,,,0.21,water
+O03,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Piroxicam,,36322-90-4,,325,,,0.035,hexane
+O04,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,"1,2,3,4,5-Pentamethylcyclopentadiene",,4045-44-7,"Sigma-Aldrich, 214027",249,,,,ethanol
+O05,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Ethidium Bromide,,1239-45-8,"TCI, E0370",285,,,0.039,water
+O06,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,"4',6-Diamidino-2-phenylindole, [DAPI]",DAPI,28718-90-3,,344,,,0.043,water
+O07,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Hoechst 33258,,23491-45-4,,345.5,,,0.034,water
+O08,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Squarylium dye III,,43134-09-4,,627.25,,,0.65,dichloromethane
+O09,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Ellagic Acid Dihydrate,,133039-73-3,"TCI, E0375",276,,,,PBS
+O10,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Betalamic Acid,,18766-66-0,,424,,,,water
+O11,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Betanin,,7659-95-2,"TCI, B0397",535,,,,PBS
+O12,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Rutin trihydrate,,153-18-4,"Acros, 132390050",205,,,,methanol
+O13,https://photochemcad.com/databases/common-compounds/miscellaneous-dyes,Hesperidin,,520-26-3,"Acros, 123460050",203,,,,methanol
+,,,,,,,,,,
+P01,https://photochemcad.com/databases/common-compounds/dipyrrins,5-Phenyldipyrromethane,,107798-98-1,,208,,,,hexane
+P02,https://photochemcad.com/databases/common-compounds/dipyrrins,5-Phenyldipyrrin,"meso-Phenyl-2,2'-dipyrromethene",118762-53-1,,432,,,,toluene
+P03,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-phenydipyrrin",,865479-43-2,,502.75,,,0.053,toluene
+P04,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-(4-iodophenyl)dipyrrin",,RRN 8641167,,515.5,,,0.23,toluene
+P05,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-[(4-(2-trimethylsilylethynyl)pheny]dipyrrin",,RRN 9294810,,515.75,,,0.078,toluene
+P06,https://photochemcad.com/databases/common-compounds/dipyrrins,Bis(5-phenyldipyrrinato)zinc,,RRN 11327052,,485,,,0.006,toluene
+P07,https://photochemcad.com/databases/common-compounds/dipyrrins,Bis(5-mesityldipyrrinato)zinc,,RRN 11327059,,487,,,0.36,toluene
+P01,https://photochemcad.com/databases/common-compounds/dipyrrins,5-Phenyldipyrromethane,,107798-98-1,,208,,,,hexane
+P02,https://photochemcad.com/databases/common-compounds/dipyrrins,5-Phenyldipyrrin,"meso-Phenyl-2,2'-dipyrromethene",118762-53-1,,432,,,,toluene
+P03,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-phenydipyrrin",,865479-43-2,,502.75,,,0.053,toluene
+P04,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-(4-iodophenyl)dipyrrin",,RRN 8641167,,515.5,,,0.23,toluene
+P05,https://photochemcad.com/databases/common-compounds/dipyrrins,"N,N'-Difluoroboryl-1,9-dimethyl-5-[(4-(2-trimethylsilylethynyl)pheny]dipyrrin",,RRN 9294810,,515.75,,,0.078,toluene
+P06,https://photochemcad.com/databases/common-compounds/dipyrrins,Bis(5-phenyldipyrrinato)zinc,,RRN 11327052,,485,,,0.006,toluene
+P07,https://photochemcad.com/databases/common-compounds/dipyrrins,Bis(5-mesityldipyrrinato)zinc,,RRN 11327059,,487,,,0.36,toluene
+,,,,,,,,,,
+Q01,https://photochemcad.com/databases/common-compounds/porphyrins,H2P,Porphine; Porphin,101-60-0,,396.25,,,0.043,toluene
+Q02,https://photochemcad.com/databases/common-compounds/porphyrins,MgP,Magnesium porphine,RRN 1226935,,402,,,0.058,propanol
+Q03,https://photochemcad.com/databases/common-compounds/porphyrins,ZnP,Zinc porphine,RRN 1226937,,399,,,0.0084,ethanol
+Q04,https://photochemcad.com/databases/common-compounds/porphyrins,H2OEP,"Octaethylporphyrin; 2,3,7,8,12,13,17,18-Octaethyl-21H,23H-porphine",2683-82-1,"Sigma-Aldrich, 252409",400,,,0.13,benzene
+Q05,https://photochemcad.com/databases/common-compounds/porphyrins,MgOEP,Magnesium octaethylporphyrin,20910-35-4,,409.75,,,0.15,toluene
+Q06,https://photochemcad.com/databases/common-compounds/porphyrins,CuOEP,Copper(II) octaethylporphyrin,14409-63-3,"Frontier Scientific, O40759",400,,,,toluene
+Q07,https://photochemcad.com/databases/common-compounds/porphyrins,ZnOEP,"Zinc octaethylporphyrin; 2,3,7,8,12,13,17,18-Octaethyl-21H,23H-porphine zinc(II)",17632-18-7,"Sigma-Aldrich, 258423",404.25,,,0.045,benzene
+Q08,https://photochemcad.com/databases/common-compounds/porphyrins,H2TPP,"Tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine",917-23-7,"Sigma-Aldrich, 247367",419.25,,,0.11,toluene
+Q09,https://photochemcad.com/databases/common-compounds/porphyrins,MgTPP,"Magnesium tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine magnesium(II)",14640-21-2,,426,,,0.15,toluene
+Q10,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTPP,"Zinc tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine zinc(II)",14074-80-7,,422.75,,,0.033,toluene
+Q11,https://photochemcad.com/databases/common-compounds/porphyrins,H2TMP,"Tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine",56396-12-4,,419,,,0.088,toluene
+Q12,https://photochemcad.com/databases/common-compounds/porphyrins,MgTMP,"Magnesium tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine magnesium(II)",RNN 8608739,,426.5,,,0.17,toluene
+Q13,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTMP,"Zin tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine zinc(II)",RNN 4648207,,421.5,,,0.039,toluene
+Q14,https://photochemcad.com/databases/common-compounds/porphyrins,H2TTP,Tetrakis(4-methylphenyl)porphyrin [TTP],14527-51-6,,420,,,0.12,benzene
+Q15,https://photochemcad.com/databases/common-compounds/porphyrins,(o-H2NPh)H2P,"Tetrakis(o-aminophenyl)porphyrin; 5,10,15,20-Tetrakis(2-aninophenyl)-21H,23H-porphine",52199-35-6,,420.75,,,0.091,toluene
+Q16,https://photochemcad.com/databases/common-compounds/porphyrins,(ODC)H2P,"Tetrakis(2,6-dichlorophenyl)porphyrin; 5,10,15,20-Tetrakis(2,6-dichlorophenyl)-21H,23H-porphine",37083-37-7,"TCI, T1438",419,,,0.0019,toluene
+Q17,https://photochemcad.com/databases/common-compounds/porphyrins,C6F5-H2P,Tetrakis(pentafluorophenyl)porphyrin,25440-14-6,"Sigma-Aldrich, 252921",417,,,0.032,benzene
+Q18,https://photochemcad.com/databases/common-compounds/porphyrins,N-Confused tetraphenylporphyrin,N-Confused H2TPP,RNN 10319450,,440,,,0.00156,chloroform
+Q19,https://photochemcad.com/databases/common-compounds/porphyrins,H4TPP2+,Diprotonated-tetraphenylporphyrin,,,444.5,,,0.14,benzene + TFA
+Q20,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTMP.+,Zinc tetramesitylporphyrin radical cation,,,412,,,,dichloromethane
+Q21,https://photochemcad.com/databases/common-compounds/porphyrins,Protoporphyrin IX dimethyl ester,,5522-66-7,"Frontier Scientific, P590-9",408,,,0.1,methanol
+Q22,https://photochemcad.com/databases/common-compounds/porphyrins,Hematin,,15489-90-4,"Sigma-Aldrich, 258318",385.9,,,,acetic acid
+Q23,https://photochemcad.com/databases/common-compounds/porphyrins,Tetrabenzoporphine,,52952-31-5,,429,,,0,
+Q24,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Bu),TBP-beta-octa(COOBu)-Fb,RNN 10238035,,447,,,0.27,dimethylformamide
+Q25,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Bu),TBP-beta-octa(COOBu)-Zn,RNN 10238613,,452,,,0.15,pyridine
+Q26,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Bu),TBP-beta-octa(COOBu)-Pd,RNN 10238614,,426,,,0.23,dimethylformamide
+Q27,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Fb,,,469,,,0.027,dimethylformamide
+Q28,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Zn,,,471,,,0.01,dimethylformamide
+Q29,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Pd,,,443,,,0.106,dimethylformamide
+Q30,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTCPH(CO2Me)Ph,TCPH-meso-tetra(4-COOMe-phenyl)-Zn,,,453,,,0.0005,dimethylformamide
+Q31,https://photochemcad.com/databases/common-compounds/porphyrins,PdTCPH(CO2Me)Ph,TCPH-meso-tetra(4-COOMe-phenyl)-Pd,,,428,,,,dimethylformamide
+Q32,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Fb,RNN 8824349,,483,,,0.018,dimethylformamide
+Q33,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Zn,RNN 8824926,,487,,,0.03,dimethylformamide
+Q34,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Pd,RNN 8755729,,460,,,0.03,dimethylformamide
+Q01,https://photochemcad.com/databases/common-compounds/porphyrins,H2P,Porphine; Porphin,101-60-0,,396.25,,,0.043,toluene
+Q02,https://photochemcad.com/databases/common-compounds/porphyrins,MgP,Magnesium porphine,RRN 1226935,,402,,,0.058,propanol
+Q03,https://photochemcad.com/databases/common-compounds/porphyrins,ZnP,Zinc porphine,RRN 1226937,,399,,,0.0084,ethanol
+Q04,https://photochemcad.com/databases/common-compounds/porphyrins,H2OEP,"Octaethylporphyrin; 2,3,7,8,12,13,17,18-Octaethyl-21H,23H-porphine",2683-82-1,"Sigma-Aldrich, 252409",400,,,0.13,benzene
+Q05,https://photochemcad.com/databases/common-compounds/porphyrins,MgOEP,Magnesium octaethylporphyrin,20910-35-4,,409.75,,,0.15,toluene
+Q06,https://photochemcad.com/databases/common-compounds/porphyrins,CuOEP,Copper(II) octaethylporphyrin,14409-63-3,"Frontier Scientific, O40759",400,,,,toluene
+Q07,https://photochemcad.com/databases/common-compounds/porphyrins,ZnOEP,"Zinc octaethylporphyrin; 2,3,7,8,12,13,17,18-Octaethyl-21H,23H-porphine zinc(II)",17632-18-7,"Sigma-Aldrich, 258423",404.25,,,0.045,benzene
+Q08,https://photochemcad.com/databases/common-compounds/porphyrins,H2TPP,"Tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine",917-23-7,"Sigma-Aldrich, 247367",419.25,,,0.11,toluene
+Q09,https://photochemcad.com/databases/common-compounds/porphyrins,MgTPP,"Magnesium tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine magnesium(II)",14640-21-2,,426,,,0.15,toluene
+Q10,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTPP,"Zinc tetraphenylporphyrin; 5,10,15,20-Tetraphenyl-21H,23H-porphine zinc(II)",14074-80-7,,422.75,,,0.033,toluene
+Q11,https://photochemcad.com/databases/common-compounds/porphyrins,H2TMP,"Tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine",56396-12-4,,419,,,0.088,toluene
+Q12,https://photochemcad.com/databases/common-compounds/porphyrins,MgTMP,"Magnesium tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine magnesium(II)",RNN 8608739,,426.5,,,0.17,toluene
+Q13,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTMP,"Zin tetramesitylporphyrin; 5,10,15,20-Tetramesityl-21H,23H-porphine zinc(II)",RNN 4648207,,421.5,,,0.039,toluene
+Q14,https://photochemcad.com/databases/common-compounds/porphyrins,H2TTP,Tetrakis(4-methylphenyl)porphyrin [TTP],14527-51-6,,420,,,0.12,benzene
+Q15,https://photochemcad.com/databases/common-compounds/porphyrins,(o-H2NPh)H2P,"Tetrakis(o-aminophenyl)porphyrin; 5,10,15,20-Tetrakis(2-aninophenyl)-21H,23H-porphine",52199-35-6,,420.75,,,0.091,toluene
+Q16,https://photochemcad.com/databases/common-compounds/porphyrins,(ODC)H2P,"Tetrakis(2,6-dichlorophenyl)porphyrin; 5,10,15,20-Tetrakis(2,6-dichlorophenyl)-21H,23H-porphine",37083-37-7,"TCI, T1438",419,,,0.0019,toluene
+Q17,https://photochemcad.com/databases/common-compounds/porphyrins,C6F5-H2P,Tetrakis(pentafluorophenyl)porphyrin,25440-14-6,"Sigma-Aldrich, 252921",417,,,0.032,benzene
+Q18,https://photochemcad.com/databases/common-compounds/porphyrins,N-Confused tetraphenylporphyrin,N-Confused H2TPP,RNN 10319450,,440,,,0.00156,chloroform
+Q19,https://photochemcad.com/databases/common-compounds/porphyrins,H4TPP2+,Diprotonated-tetraphenylporphyrin,,,444.5,,,0.14,benzene + TFA
+Q20,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTMP.+,Zinc tetramesitylporphyrin radical cation,,,412,,,,dichloromethane
+Q21,https://photochemcad.com/databases/common-compounds/porphyrins,Protoporphyrin IX dimethyl ester,,5522-66-7,"Frontier Scientific, P590-9",408,,,0.1,methanol
+Q22,https://photochemcad.com/databases/common-compounds/porphyrins,Hematin,,15489-90-4,"Sigma-Aldrich, 258318",385.9,,,,acetic acid
+Q23,https://photochemcad.com/databases/common-compounds/porphyrins,Tetrabenzoporphine,,52952-31-5,,429,,,0,
+Q24,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Bu),TBP-beta-octa(COOBu)-Fb,RNN 10238035,,447,,,0.27,dimethylformamide
+Q25,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Bu),TBP-beta-octa(COOBu)-Zn,RNN 10238613,,452,,,0.15,pyridine
+Q26,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Bu),TBP-beta-octa(COOBu)-Pd,RNN 10238614,,426,,,0.23,dimethylformamide
+Q27,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Fb,,,469,,,0.027,dimethylformamide
+Q28,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Zn,,,471,,,0.01,dimethylformamide
+Q29,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Me)Ph,TBP-meso-tetra(4-COOMe-phenyl)-Pd,,,443,,,0.106,dimethylformamide
+Q30,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTCPH(CO2Me)Ph,TCPH-meso-tetra(4-COOMe-phenyl)-Zn,,,453,,,0.0005,dimethylformamide
+Q31,https://photochemcad.com/databases/common-compounds/porphyrins,PdTCPH(CO2Me)Ph,TCPH-meso-tetra(4-COOMe-phenyl)-Pd,,,428,,,,dimethylformamide
+Q32,https://photochemcad.com/databases/common-compounds/porphyrins,H2TBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Fb,RNN 8824349,,483,,,0.018,dimethylformamide
+Q33,https://photochemcad.com/databases/common-compounds/porphyrins,ZnTBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Zn,RNN 8824926,,487,,,0.03,dimethylformamide
+Q34,https://photochemcad.com/databases/common-compounds/porphyrins,PdTBP(CO2Bu)Ph,TBP-meso-tetraphenyl-beta-octa(COOMe)-Pd,RNN 8755729,,460,,,0.03,dimethylformamide
+,,,,,,,,,,
+R01,https://photochemcad.com/databases/common-compounds/oligopyrroles,Ph-Corrole,"5,10,15-Triphenylcorrole",246231-45-8,,416,,,0.14,dichloromethane
+R02,https://photochemcad.com/databases/common-compounds/oligopyrroles,C6F5-Corrole,"5,10,15-Tris(pentafluorophenyl)corrole",262280-80-8,,408,,,0.11,dichloromethane
+R03,https://photochemcad.com/databases/common-compounds/oligopyrroles,Sapphyrin,Tetraphenyl sapphyrin,RNN 7345536,,491,,,,dichloromethane
+R04,https://photochemcad.com/databases/common-compounds/oligopyrroles,Bilirubin,,635-65-4,,450.75,,,,chloroform
+R05,https://photochemcad.com/databases/common-compounds/oligopyrroles,Biliverdin dimethyl ester,,10035-62-8,"Frontier Scientific, B610-9",377,,,,ethanol
+R06,https://photochemcad.com/databases/common-compounds/oligopyrroles,Cyanocobalamin,synthetic form of Vitamin B12,68-19-9,,361,,,,borate buffer (pH 10)
+R01,https://photochemcad.com/databases/common-compounds/oligopyrroles,Ph-Corrole,"5,10,15-Triphenylcorrole",246231-45-8,,416,,,0.14,dichloromethane
+R02,https://photochemcad.com/databases/common-compounds/oligopyrroles,C6F5-Corrole,"5,10,15-Tris(pentafluorophenyl)corrole",262280-80-8,,408,,,0.11,dichloromethane
+R03,https://photochemcad.com/databases/common-compounds/oligopyrroles,Sapphyrin,Tetraphenyl sapphyrin,RNN 7345536,,491,,,,dichloromethane
+R04,https://photochemcad.com/databases/common-compounds/oligopyrroles,Bilirubin,,635-65-4,,450.75,,,,chloroform
+R05,https://photochemcad.com/databases/common-compounds/oligopyrroles,Biliverdin dimethyl ester,,10035-62-8,"Frontier Scientific, B610-9",377,,,,ethanol
+R06,https://photochemcad.com/databases/common-compounds/oligopyrroles,Cyanocobalamin,synthetic form of Vitamin B12,68-19-9,,361,,,,borate buffer (pH 10)
+,,,,,,,,,,
+S01,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc,"Phthalocyanine; 29H,31H-Phthalocyanine",574-93-6,,698.5,,,0.6,chloronaphthalene
+S02,https://photochemcad.com/databases/common-compounds/phthalocyanines,MgPc,Magnesium phthalocyanine; Cyanide Ionophore II,1661-03-6,,674,,,0.48,chloronaphthalene
+S03,https://photochemcad.com/databases/common-compounds/phthalocyanines,FePc,Iron(II) phthalocyanine,132-16-1,"Sigma-Aldrich, 379549",662,,,,dimethylformamide
+S04,https://photochemcad.com/databases/common-compounds/phthalocyanines,ZnPc,Zinc phthalocyanine,14320-04-8,,674,,,0.3,pyridine
+S05,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc(OBu),"1,4,8,11,15,18,22,25-Octabutoxy-29H,31H-phthalocyanine",116453-73-7,"Sigma-Aldrich, 383805",763,,,0.13,chloroform
+S06,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc(tBu),"2,9,16,23-Tetra-tert-butyl-29H,31H-phthalocyanine",35984-93-1,"Sigma-Aldrich, 423157",699,,,0.77,benzene
+S07,https://photochemcad.com/databases/common-compounds/phthalocyanines,ZnPc(tBu),"Zinc 2,9,16,23-tetra-tert-butyl-29H,31H-phthalocyanine",39001-65-5,"Sigma-Aldrich, 430994",677,,,0.37,benzene
+S08,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Nc(OnBu),"5,9,14,18,23,27,32,36-Octabutoxy-2,3-naphthalocyanine",105528-25-4,"Sigma-Aldrich, 412074",865,,,,toluene
+S09,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Nc(tBu),"2,11,20,29-Tetra-tert-butyl-2,3-naphthalocyanine; Tetra-tert-butyl-naphthalocyanine",58687-99-3,"Sigma-Aldrich, 425273",784.37,,,0.01,chloroform
+S10,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2N4P(tBu),"2,7,12,17-Tetra-tert-butyl-5,10,15,20-tetraaza-21H,23H-porphine; Tetra-tert-butyl-tetraazaporphine",64987-70-8,"Sigma-Aldrich, 428361",624.38,,,0.21,chloroform
+S11,https://photochemcad.com/databases/common-compounds/phthalocyanines,Boron subphthalocyanine chloride,,36530-06-0,"Sigma-Aldrich, 425540",569,,,0.25,benzene
+S01,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc,"Phthalocyanine; 29H,31H-Phthalocyanine",574-93-6,,698.5,,,0.6,chloronaphthalene
+S02,https://photochemcad.com/databases/common-compounds/phthalocyanines,MgPc,Magnesium phthalocyanine; Cyanide Ionophore II,1661-03-6,,674,,,0.48,chloronaphthalene
+S03,https://photochemcad.com/databases/common-compounds/phthalocyanines,FePc,Iron(II) phthalocyanine,132-16-1,"Sigma-Aldrich, 379549",662,,,,dimethylformamide
+S04,https://photochemcad.com/databases/common-compounds/phthalocyanines,ZnPc,Zinc phthalocyanine,14320-04-8,,674,,,0.3,pyridine
+S05,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc(OBu),"1,4,8,11,15,18,22,25-Octabutoxy-29H,31H-phthalocyanine",116453-73-7,"Sigma-Aldrich, 383805",763,,,0.13,chloroform
+S06,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Pc(tBu),"2,9,16,23-Tetra-tert-butyl-29H,31H-phthalocyanine",35984-93-1,"Sigma-Aldrich, 423157",699,,,0.77,benzene
+S07,https://photochemcad.com/databases/common-compounds/phthalocyanines,ZnPc(tBu),"Zinc 2,9,16,23-tetra-tert-butyl-29H,31H-phthalocyanine",39001-65-5,"Sigma-Aldrich, 430994",677,,,0.37,benzene
+S08,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Nc(OnBu),"5,9,14,18,23,27,32,36-Octabutoxy-2,3-naphthalocyanine",105528-25-4,"Sigma-Aldrich, 412074",865,,,,toluene
+S09,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2Nc(tBu),"2,11,20,29-Tetra-tert-butyl-2,3-naphthalocyanine; Tetra-tert-butyl-naphthalocyanine",58687-99-3,"Sigma-Aldrich, 425273",784.37,,,0.01,chloroform
+S10,https://photochemcad.com/databases/common-compounds/phthalocyanines,H2N4P(tBu),"2,7,12,17-Tetra-tert-butyl-5,10,15,20-tetraaza-21H,23H-porphine; Tetra-tert-butyl-tetraazaporphine",64987-70-8,"Sigma-Aldrich, 428361",624.38,,,0.21,chloroform
+S11,https://photochemcad.com/databases/common-compounds/phthalocyanines,Boron subphthalocyanine chloride,,36530-06-0,"Sigma-Aldrich, 425540",569,,,0.25,benzene
+,,,,,,,,,,
+T01,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorophyll a,,479-61-8,,429,,,0.32,diethyl ether
+T02,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorophyll b,,519-62-0,,453,,,0.117,diethyl ether
+T03,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pheophorbide a,,15664-29-6,"Frontier Scientific, Pha-592",410,,,0.28,ethanol
+T04,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pyropheophorbide a,,24533-72-0,"Frontier Scientific, Ppa",413,,,0.31,dimethylformamide
+T05,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pyropheophorbide a methyl ester,Methyl pyropheophorbide a,6453-67-4,"Frontier Scientific, MPPa",414,,,0.21,dichloromethane
+T06,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorin e6,,19660-77-6,"Frontier Scientific, Ce6",401,,,0.16,ethanol
+T07,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Purpurin 18,,25465-77-4,"Frontier Scientific, Pu18-564",413,,,0.08,toluene
+T08,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2TPC,meso-Tetraphenylchlorin,2669-65-0,"TCI, T1358",421,,,0.28,toluene
+T09,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2C-1,"17,18-Dihydro-5-(4-methylphenyl)-10-mesityl-18,18-dimethylporphyrin,",RNN 8601239,,414,,,0.26,toluene
+T10,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,CuC-1,"Cupper(II)-17,18-dihydro-10-mesityl-18,18-dimethyl-5-(4-methylphenyl)porphyrin",RNN 8606740,,409,,,,toluene
+T11,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,ZnC-1,"Zinc(II)-17,18-Dihydro-10-mesityl-18,18-dimethyl-5-(4-methylphenyl)porphyrin",RNN 8606739,,411,,,0.083,toluene
+T12,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2COxo-1,"17,18-Dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9374284,,415,,,0.13,toluene
+T13,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,MgCOxo-1,"Magnesium(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379026,,425,,,0.1,toluene
+T14,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,CuCOxo-1,"Cupper(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379028,,420,,,,toluene
+T15,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,ZnCOxo-1,"Zinc(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379029,,423,,,0.04,toluene
+T16,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Bacteriochlorophyll a,,17499-98-8,,780.2,,,0.2,toluene
+T01,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorophyll a,,479-61-8,,429,,,0.32,diethyl ether
+T02,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorophyll b,,519-62-0,,453,,,0.117,diethyl ether
+T03,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pheophorbide a,,15664-29-6,"Frontier Scientific, Pha-592",410,,,0.28,ethanol
+T04,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pyropheophorbide a,,24533-72-0,"Frontier Scientific, Ppa",413,,,0.31,dimethylformamide
+T05,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Pyropheophorbide a methyl ester,Methyl pyropheophorbide a,6453-67-4,"Frontier Scientific, MPPa",414,,,0.21,dichloromethane
+T06,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Chlorin e6,,19660-77-6,"Frontier Scientific, Ce6",401,,,0.16,ethanol
+T07,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Purpurin 18,,25465-77-4,"Frontier Scientific, Pu18-564",413,,,0.08,toluene
+T08,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2TPC,meso-Tetraphenylchlorin,2669-65-0,"TCI, T1358",421,,,0.28,toluene
+T09,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2C-1,"17,18-Dihydro-5-(4-methylphenyl)-10-mesityl-18,18-dimethylporphyrin,",RNN 8601239,,414,,,0.26,toluene
+T10,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,CuC-1,"Cupper(II)-17,18-dihydro-10-mesityl-18,18-dimethyl-5-(4-methylphenyl)porphyrin",RNN 8606740,,409,,,,toluene
+T11,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,ZnC-1,"Zinc(II)-17,18-Dihydro-10-mesityl-18,18-dimethyl-5-(4-methylphenyl)porphyrin",RNN 8606739,,411,,,0.083,toluene
+T12,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,H2COxo-1,"17,18-Dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9374284,,415,,,0.13,toluene
+T13,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,MgCOxo-1,"Magnesium(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379026,,425,,,0.1,toluene
+T14,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,CuCOxo-1,"Cupper(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379028,,420,,,,toluene
+T15,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,ZnCOxo-1,"Zinc(II)-17,18-dihydro-18,18-dimethyl-5-(4-methylphenyl)-10-mesityl-17-oxoporphyrin",RNN 9379029,,423,,,0.04,toluene
+T16,https://photochemcad.com/databases/common-compounds/chlorins-bacteriochlorins,Bacteriochlorophyll a,,17499-98-8,,780.2,,,0.2,toluene
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
