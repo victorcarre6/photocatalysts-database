@@ -80,7 +80,7 @@ Install dependencies using pip:
 Load the dataset into a Python script or Jupyter notebook:
 
     import pandas as pd
-    data = pd.read_csv("data/sample_data.csv")
+    data = pd.read_csv("data/photocompounds_database.csv")
 
 Start exploring the data and using the cheminformatics tools available in the src folder.
 Run scripts for data collection, cleaning, and visualization from the src folder.
