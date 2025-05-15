@@ -1,0 +1,204 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12
+Table 1. Photophysical and Electrochemical Properties of Organic Photoredox Catalysts,,,,,,,,,,,,
+,,,,,,,,ground state redox potentials,,excited state redox potentials (V vs,,excited state redox potentials (V vs
+,,,,,,excited state energies (eV),,(V vs SCE),,SCE): S1,,SCE): T1
+,,,,,S1,T1 a,,,S1,S1,T1,T1
+abbreviation,"abs (nm)
+λmax",τf(ns),ϕf,ϕISC,"E0,0","E0,0",E1/2,E1/2,Ered,Eox,Ered,Eox
+DCB,29021,9.722,,,4.0122,3.0423,−1.4622,,+2.5522,,"+1.58b,22,23",
+DCN,32524,10.325,,,3.5725,2.4123,−1.2725,,"+2.3b,25",,"+1.14b,25,23",
+DCA,42226,14.925,"0.76c,27",0.008528,2.9025,1.8127,−0.9125,,"+1.99b,25",,"+0.9b,25,27",
+BP,"335d,29",0.00830,,1.031,3.2230,3.030,−1.7231,+2.3931,"+1.5b,31,30","−0.83b,31,30","+1.28b,31,30","−0.61b,31,30"
+MK,"365e,32",,,,"2.98e,32",2.730,"−2.20f,34",+0.8635,"+0.76b,34,32","−2.12b,35,32","+0.48b,34,30","−1.84b,35,30"
+FLN,37736,16.231,,0.9731,,2.3131,−1.3531,+1.731,,,"+0.96b,31","−0.61b,31"
+XO,34037,<0.031,,1.031,3.430,3.2230,−1.6531,+1.831,"+1.76b,31,30","−1.61b,31,30","+1.57b,31,30","−1.42b,31,30"
+TXO,36038,231,,0.9931,3.1430,2.830,−1.6231,+1.6931,"+1.52b,31,30","−1.45b,31,30","+1.18b,31,30","−1.11b,31,30"
+TCBQ,45039,,,1.040,,2.4641,0.0042,,,,"+2.46b,42,41",
+DDQ,∼40043,,,1.044,,2.6743,+0.4942,,,,+3.1843,
+AQ,"326e,45",,,1.0446,,"2.7346,47",−0.9642,,,,"+1.77b,42,46",
+TPT+,"415g,48",4.3825,"0.58g,48",0.4248,2.8325,"2.3h,49",−0.3225,,"+2.55b,48,25",,"+2.02b,48,49",
+p-OMeTPT+,"422,470h,50",4.09,0.959,0.0352,"2.34i,50","2.21h,49","−0.50j,50",,"+1.84b,50",,"+1.71b,50,49",
+,,,0.4951,,,,,,,,,
+TTPP+,41450,"3.6g,54",0.0354,0.9452,"2.64i,50",2.2855,"−0.19j,50",,"+2.45b,50",,"+2.09b,50,55",
+p-OMeTTPP+,45550,,,,"2.23i,50",,"−0.33j,50",,"+1.9b,50",,,
+NMQ+,31556,2057,"0.79k,58",,3.5022,,−0.8559,,+2.7059,,,
+QuCN+,32960,4561,,,3.3222,,−0.6062,,+2.7261,,,
+,,,,,,,−0.7963,,,,,
+Acr-Me+,,"37,57 3425","1.0l,64",,2.8025,,−0.4625,,+2.3265,,,
+Ph-Acr-Me+,42466,1.566,0.06366,,,,"−0.54m,67",,,,,
+Mes-Acr-Me+,42568,669,0.03569,0.3869,LE: 2.6769,LE: 1.9469,−0.4968,,LE: +2.1869,,LE: +1.4569,
+,,,"0.08n,70",,CT: 2.5769,,−0.5771,,CT: +2.0869,,CT: +1.8872,
+AO,42573,,,,,2.5873,−2.473,,,,"+0.60o,73",
+AOH+,49573,1.875,"0.18l,76",,"2.58d,77",2.0777,"−1.18o,73",,,,"+0.95o,73",
+,,,,,"2.43p,78","2.13p,78",,,,,,
+AcrF+,"470p,78",,"0.54l,64",,"2.56p,78","2.22p,78",,,,,,
+PF,"393l,79",,,,,,,,,,,
+PFH+,"470p,78","∼5l,80","0.39l,76","0.10l,81","2.56p,78","2.22p,78","−0.74l,79",,"+1.82b,79,78",,"+1.48b,79,78",
+PTh,<30082,0.81-2.382,,,"2.8q,83",2.483,,+0.6883,,−2.183,,"−1.7b,83"
+MB+,"650r,84","1.0s,86",,"0.52e,89",1.8988,1.5088,"−0.30d,f,77","+1.13d,f,77","+1.56d,f,77","−0.73d,f,77","+1.60d,f,77","−0.68d,f,77"
+,"664l,85","0.6d,87,88",,,,1.8577,,,,,"+1.14b,77,88","−0.33b,77,88"
+"[FL]t,u","FLH2:437l,93","4.2d,90",FLH2: 0.293,0.0377,"2.42d,77",1.9477,"−1.17d,f,77","+0.87d,f,77","+1.25d,f,77","−1.55d,f,77","+0.77d,f,77","−1.07d,f,77"
+,"FL2−: 491l,93","4.73d,77",FL2−: 0.9393,,,,"−1.22d,f,90","+0.83d,f,90",,,,
+"[EY]u,t","520d,90","2.1d,90","0.48d,77","0.32d,77","2.31d,90",1.9177,"−1.08d,f,77","+0.76d,f,77","+1.23d,f,77","−1.58d,f,77","+0.83d,f,77","−1.15d,f,,77"
+,"533e,91","2.66d,77","0.19v,64",,,,"−1.13d,f,90","+0.72d,f,90",,,,
+"[RB]u,t",54992,0.5077,"0.09d,77","0.77d,77","2.17d,77",1.877,"−0.99d,f,77","+0.84d,f,77","+1.18d,f,77","−1.33d,f,77","+0.81d,f,77","−0.96d,f,77"
+,,,,,,,−0.7894,,,,,
+[RhB],"550l,95","2.45d,,77","0.58d,77","0.12d,77","2.22d,77",1.8077,"−0.96d,f,77","+0.91d,f,77","+1.26d,f,77","−1.31d,f,77","+0.84d,f,77","−0.89d,f,77"
+,,,"0.97e,64",0.002495,,,,,,,,
+[Rh6G],"530e,96","4.13d,97","0.90l,98",0.00299,2.32100,2.0999,"−1.14f,100",+1.23102,"+1.18f,100","−1.09b,100,102","+0.95b,99,100","−0.86b,99,102"
+,Review,,,,,,,,,,,
+,"much slower than kf; conversely, a low ϕf indicates that the rate of",,,,,,,,,,,
+,nonradiative pathways are competitive with kf.,,,,,,,,,,,
+,"Intersystem Crossing
+2.2.3. ϕISC: Quantum Yield of",,,,,,,,,,,
+,(Frequently Used As Synonymous with Quantum Yield of,,,,,,,,,,,
+,"Formation of T1, ϕT1). When kISC is fast enough to compete",,,,,,,,,,,
+,"with kf (and kIC), the T1 state can be populated and ϕISC can help",,,,,,,,,,,
+,to predict whether T1 will be an active excited state in a PET,,,,,,,,,,,
+,process. Lifetimes for triplet states (τT1) are usually several orders,,,,,,,,,,,
+,of magnitude larger than S1 and on the order of microseconds to,,,,,,,,,,,
+,milliseconds. This is a consequence of the fact that the T1→S0 is,,,,,,,,,,,
+,"symmetry forbidden. We opt not to tabulate τT1 lifetimes, in part",,,,,,,,,,,
+,"because of the wide variability in these values is diﬃcult to avoid,",,,,,,,,,,,
+,owing to the fact that strictly anaerobic conditions are required to,,,,,,,,,,,
+,"preclude quenching by O2. Furthermore, decay of
+the T1 by",,,,,,,,,,,
+,phosphorescence or nonradiative pathways is usually orders of,,,,,,,,,,,
+,"magnitude slower than electron transfer reactions. Thus, T1 are",,,,,,,,,,,
+,"suﬃciently
+long-lived
+that
+the
+eﬃcacy
+of
+PET between
+a",,,,,,,,,,,
+,substrate and T1 is not signiﬁcantly aﬀected by τT1.,,,,,,,,,,,
+,S1,,,,,,,,,,,
+,": Excited State Energy of
+the First Singlet
+2.2.4. E0,0",,,,,,,,,,,
+,Excited State S1. The excited state energy is often named with,,,,,,,,,,,
+,"the subscript
+to the transition between the
+“0,0”, which refers",,,,,,,,,,,
+,"lowest energy vibrational state (v = 0) of S1 to v = 0 of S0, which",,,,,,,,,,,
+,"can
+be
+estimated
+at
+the
+intersection
+between
+normalized",,,,,,,,,,,
+,symmetrical absorbance and emission spectra after converting,,,,,,,,,,,
+,the wavelength axis to an energy scale or by ﬁnding the midpoint,,,,,,,,,,,
+,"between absorption and emission maxima
+(i.e., one-half
+the",,,,,,,,,,,
+,"Stokes
+shift). Alternative methods
+for estimating excited state",,,,,,,,,,,
+,energy include selecting the energy at the earliest onset (highest,,,,,,,,,,,
+,"energy) of ﬂuorescence or at
+the ﬂuorescence maximum. The",,,,,,,,,,,
+,“earliest onset” method is arbitrary and may overestimate the,,,,,,,,,,,
+,"true
+excited state
+energy, while
+the
+“ﬂuorescence maximum”",,,,,,,,,,,
+,"method is likely to underestimate E0,0.",,,,,,,,,,,
+,T1,,,,,,,,,,,
+,": Excited State Energy of
+the First Triplet
+2.2.5. E0,0",,,,,,,,,,,
+,"seldom occurs
+at
+room
+Excited State T1. Because
+S0→T1",,,,,,,,,,,
+,temperature and phosphorescence under the same conditions is,,,,,,,,,,,
+,"also rare, this value is less readily obtained than for S1. Moreover,",,,,,,,,,,,
+,T1,,,,,,,,,,,
+,"is most often read from the phosphorescence maximum,
+E0,0",,,,,,,,,,,
+,which almost always requires cryogenic conditions to maximize,,,,,,,,,,,
+,phosphorescence as the dominant decay pathway. Under these,,,,,,,,,,,
+,"conditions,
+the
+emission
+spectrum usually
+exhibits
+enough",,,,,,,,,,,
+,"structure to allow assignment of ET1 as an E0,0.",,,,,,,,,,,
+,"S1
+T1",,,,,,,,,,,
+,"in units of eV to allow for
+Note that we present E0,0
+and E0,0",,,,,,,,,,,
+,easy combination with electrochemical potential (in units of V),,,,,,,,,,,
+,"in order
+to
+estimate
+excited
+state
+redox
+potentials.
+See
+the",,,,,,,,,,,
+,discussion below.,,,,,,,,,,,
+,2.3. Electrochemistry: Thermodynamics of Electron Transfer,,,,,,,,,,,
+,and Photoinduced Electron Transfer,,,,,,,,,,,
+,2.3.1. Electron Transfer in the Ground State. The general,,,,,,,,,,,
+,equation describing the free energy of a single electron transfer is,,,,,,,,,,,
+,"(cid:45)
+(cid:45)
+(
+)
+(
+)
+E
+E
+E",,,,,,,,,,,
+,"Δ=−
+=−
+−
+red
+ox",,,,,,,,,,,
+,"•−
+•+",,,,,,,,,,,
+,"(cid:45)
+(
+(A/A
+)
+(D
+/D))
+E
+E",,,,,,,,,,,
+,"=−
+−
+1/2
+1/2
+(1)",,,,,,,,,,,
+,where (cid:45) is the Faraday constant (23.061 kcal V−1 mol−1) and,,,,,,,,,,,
+,"and
+are
+ground
+state
+redox
+potentials
+obtained
+Ered
+Eox",,,,,,,,,,,
+,experimentally for each species A and D undergoing reduction,,,,,,,,,,,
+,"and oxidation,
+refers
+to a reduction potential
+respectively. Ered",,,,,,,,,,,
+,"and is the common shorthand for E1/2(A/A•−), or single electron",,,,,,,,,,,
+,reduction of an acceptor A according to the half reaction A →,,,,,,,,,,,
+,"A•−. As experimentally measured by electrochemical means, Ered",,,,,,,,,,,
+,"values are negative (<0 V) for most ground state species, since",,,,,,,,,,,
+10080,DOI: 10.1021/acs.chemrev.6b00057,,,,,,,,,,,
+,"Chem. Rev. 2016, 116, 10075−10166",,,,,,,,,,,
